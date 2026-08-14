@@ -277,7 +277,7 @@
             "last_commit": "2026-08-12T12:56:41Z",
             "owner": "lem-project",
             "repo": "lem",
-            "stars": 3026
+            "stars": 3027
           }
         },
         {
@@ -313,7 +313,7 @@
               "repo_info": {
                 "archived": false,
                 "language": null,
-                "last_commit": "2026-08-13T23:34:35Z",
+                "last_commit": "2026-08-14T22:04:48Z",
                 "owner": "fricas",
                 "repo": "fricas",
                 "stars": 392
@@ -635,7 +635,7 @@
             "last_commit": "2026-07-04T22:00:26Z",
             "owner": "tshatrov",
             "repo": "ichiran",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -900,7 +900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:07:40.728Z",
+    "last_updated": "2026-08-14T23:47:44.961Z",
     "original_repository": "azzamsa/awesome-cl-software",
     "original_repository_sha": "e2ca09c8d6d8739ab2ca0b941bf6a65ed0e79f5a",
     "enhanced_repository": "enhansome/enhansome-cl-software",
