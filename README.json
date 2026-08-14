@@ -1,0 +1,910 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ OpenMusic",
+          "description": "visual programming / computer-aided composition environment. [GPL3][2].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-08-07T15:25:00Z",
+            "owner": "openmusic-project",
+            "repo": "openmusic",
+            "stars": 416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ OM7",
+          "description": "a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. [GPL3][2].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2022-09-14T16:30:57Z",
+            "owner": "cac-t-u-s",
+            "repo": "om-sharp",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Incudine",
+          "description": "Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-07-23T09:20:37Z",
+            "owner": "titola",
+            "repo": "incudine",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Common Music",
+          "description": "the repository of an ancient version of Common Music (version 2.12.0), the presumably last version which ran on Common Lisp dating from around 2007-09, before work on Common Music shifted to (scheme-based) cm3.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Common Lisp",
+            "last_commit": "2025-11-16T18:54:53Z",
+            "owner": "ormf",
+            "repo": "cm",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ernestine",
+          "description": "Ernestine is a music management application in McClim. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2022-01-14T14:45:27Z",
+            "owner": "nlamirault",
+            "repo": "ernestine",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ext-blog",
+          "description": "blog engine. It supports custom theme and you can port a WordPress theme for it. [No License Specified].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2013-01-30T01:38:42Z",
+            "owner": "kevinlynx",
+            "repo": "ext-blog",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cliki2",
+          "description": "The wiki software behind cliki.net AGPL3",
+          "children": []
+        }
+      ],
+      "title": "Blogging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lisp-chat",
+          "description": "An experimental minimal chat. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-07-22T01:16:53Z",
+            "owner": "ryukinix",
+            "repo": "lisp-chat",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collen",
+          "description": "Common Lisp IRC bot with a modular framework.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Common Lisp",
+            "last_commit": "2026-05-17T17:37:48Z",
+            "owner": "Shinmera",
+            "repo": "colleen",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Chat"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lisp-bots",
+          "description": "Bots from #lisp. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2023-11-25T20:55:35Z",
+            "owner": "stassats",
+            "repo": "lisp-bots",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alice",
+          "description": "Alice Margatroid, a dollmaster that pretends not to be a doll itself. [No license Specified].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2017-11-04T14:06:50Z",
+            "owner": "TeMPOraL",
+            "repo": "alice",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magitek",
+          "description": "Whimsical robots infused with just a hint of magic. No license specified.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2022-08-28T16:48:20Z",
+            "owner": "sjl",
+            "repo": "magitek",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Chat Bot"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cepl",
+          "description": "Code Evaluate Play Loop. 2-clause BSD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-07-09T13:28:08Z",
+            "owner": "cbaggers",
+            "repo": "cepl",
+            "stars": 886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seed",
+          "description": "Interactive software environment based on Common Lisp. GPL3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-08-05T06:45:30Z",
+            "owner": "phantomics",
+            "repo": "seed",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "barf",
+          "description": "A simple Nixpkgs and NixOS helper. CC0.",
+          "children": []
+        }
+      ],
+      "title": "Development Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ Pgloader",
+          "description": "Migrate to PostgreSQL in a single command!. PostgreSQL License",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-07-24T14:35:08Z",
+            "owner": "dimitri",
+            "repo": "pgloader",
+            "stars": 6499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Pgchart",
+          "description": "A self-contained web application that takes as input an SQL query text and outputs its data as a chart. [No License Specified]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2020-06-01T19:03:33Z",
+            "owner": "dimitri",
+            "repo": "pgcharts",
+            "stars": 402
+          }
+        }
+      ],
+      "title": "Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lem",
+          "description": "Common Lisp editor/IDE with high expansibility. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-08-12T12:56:41Z",
+            "owner": "lem-project",
+            "repo": "lem",
+            "stars": 3026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neomacs",
+          "description": "Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2025-02-17T05:12:18Z",
+            "owner": "neomacs-project",
+            "repo": "neomacs",
+            "stars": 284
+          }
+        }
+      ],
+      "title": "Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Axiom",
+          "description": "Axiom is a free, open source computer algebra system. It is developed in its Spad language that compiles to Common Lisp.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FriCAS",
+              "description": "is a fork, more maintained and easier to build. «The FriCAS algebra library is the largest and most advanced free general purpose computer algebra system».",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-13T23:34:35Z",
+                "owner": "fricas",
+                "repo": "fricas",
+                "stars": 392
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "PostScript",
+            "last_commit": "2023-08-02T14:06:25Z",
+            "owner": "daly",
+            "repo": "axiom",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MathB",
+          "description": "a math pastebin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2025-03-16T01:01:20Z",
+            "owner": "susam",
+            "repo": "mathb",
+            "stars": 372
+          }
+        }
+      ],
+      "title": "Education"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kandria",
+          "description": "a post-apocalyptic exploratory 2D platformer game and hack and slack action RPG. [zlib License]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Uses the Trial",
+              "description": "game engine.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Common Lisp",
+                "last_commit": "2026-05-18T10:49:57Z",
+                "owner": "Shirakumo",
+                "repo": "trial",
+                "stars": 1138
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "Common Lisp",
+            "last_commit": "2026-05-17T17:40:31Z",
+            "owner": "Shirakumo",
+            "repo": "kandria",
+            "stars": 698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sucle",
+          "description": "A Minecraft clone (voxel game engine). MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2022-07-31T15:37:35Z",
+            "owner": "gregcman",
+            "repo": "sucle",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Capture the Flag engine",
+          "description": "challenges with a live scoreboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-14T21:56:41Z",
+            "owner": "atgreen",
+            "repo": "ctfg",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ Sketch",
+          "description": "A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-01-18T18:36:11Z",
+            "owner": "vydd",
+            "repo": "sketch",
+            "stars": 1496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Kons-9",
+          "description": "A 3D content creation tool. MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2023-11-13T22:44:42Z",
+            "owner": "kaveh808",
+            "repo": "kons-9",
+            "stars": 652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weir",
+          "description": "An experimental system for writing generative systems.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Common Lisp",
+            "last_commit": "2021-04-21T21:18:38Z",
+            "owner": "inconvergent",
+            "repo": "weir",
+            "stars": 638
+          }
+        }
+      ],
+      "title": "Image Creation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Halftone",
+          "description": "A simple image viewer in Common Lisp.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Common Lisp",
+            "last_commit": "2026-05-17T17:40:06Z",
+            "owner": "Shinmera",
+            "repo": "halftone",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pixel-diff",
+          "description": "a desktop and command line tool to visualize differences between images, designed for use with screenshot tests. MPL-2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2025-09-02T17:31:52Z",
+            "owner": "screenshotbot",
+            "repo": "pixel-diff",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spectacle",
+          "description": "A CLIM application for viewing opticl images. 2-clause BSD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2017-08-25T15:56:56Z",
+            "owner": "slyrus",
+            "repo": "spectacle",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Image Viewer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mx-proxy",
+          "description": "a Web debugging proxy - with an Electron, GTK4 or Tcl/Tk GUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2024-05-23T11:47:28Z",
+            "owner": "garlic0x1",
+            "repo": "mx-proxy",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Happening",
+          "description": "A privacy-focused, self-hosted web analytics platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-04-18T22:54:39Z",
+            "owner": "atgreen",
+            "repo": "happening",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crafterbin",
+          "description": "a temporary file sharing service written in Common Lisp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-07-12T08:40:51Z",
+            "owner": "parenworks",
+            "repo": "crafterbin",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Internet"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lisp-chat",
+          "description": "An experimental chat irc-like written in Lisp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-07-22T01:16:53Z",
+            "owner": "ryukinix",
+            "repo": "lisp-chat",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLatter",
+          "description": "A terminal-based IRC client written in Common Lisp using the croatoan ncurses library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-02-20T10:58:14Z",
+            "owner": "parenworks",
+            "repo": "CLatter",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Chat"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mezzano",
+          "description": "An operating system written in Common Lisp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-06-16T08:08:29Z",
+            "owner": "froggey",
+            "repo": "Mezzano",
+            "stars": 3881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yalo",
+          "description": "Lisp OS running on bare metal x86-64 hardware (WIP)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2022-05-11T01:57:19Z",
+            "owner": "whily",
+            "repo": "yalo",
+            "stars": 590
+          }
+        }
+      ],
+      "title": "Operating System"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ichiran",
+          "description": "Linguistic tools for texts in Japanese language. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-07-04T22:00:26Z",
+            "owner": "tshatrov",
+            "repo": "ichiran",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Projectured",
+          "description": "ProjecturEd is a generic purpose projectional editor. [No License Specified].",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Common Lisp",
+            "last_commit": "2026-07-17T08:49:58Z",
+            "owner": "projectured",
+            "repo": "projectured-lisp",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deftask",
+          "description": "Painless task management for teams. [Partly Open Source].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2019-01-30T10:20:51Z",
+            "owner": "deftask",
+            "repo": "deftask-cli",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Productivity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "etap",
+          "description": "Experimental Typesetting Algorithms Platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-07-15T15:00:40Z",
+            "owner": "didierverna",
+            "repo": "etap",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ABStock",
+          "description": "allows to publish an online catalogue of products. Primarily made for books.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2025-12-05T18:03:26Z",
+            "owner": "vindarel",
+            "repo": "ABStock",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Publishing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cl-ledger",
+          "description": "a port of the double-entry accounting system. 3-clause BSD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2025-08-28T08:03:46Z",
+            "owner": "ledger",
+            "repo": "cl-ledger",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mediaimport",
+          "description": "Import media files (jpgs/movies) from cameras. [No License Specified].",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Common Lisp",
+            "last_commit": "2023-06-17T20:16:55Z",
+            "owner": "fourier",
+            "repo": "mediaimport",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hju",
+          "description": "Simple command line (CLI) controller for Hue lights. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2017-08-30T07:02:22Z",
+            "owner": "TeMPOraL",
+            "repo": "hju",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stumpwm",
+          "description": "The Stump Window Manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-05-30T01:59:00Z",
+            "owner": "stumpwm",
+            "repo": "stumpwm",
+            "stars": 2026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paulownia",
+          "description": "A modern re-write of stumpwm. GPL2.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Common Lisp",
+            "last_commit": "2023-12-23T14:59:01Z",
+            "owner": "stumpwm",
+            "repo": "paulownia",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "Window Manager"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kindista",
+          "description": "A social network for local sharing. AGPL3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-01-04T22:27:59Z",
+            "owner": "kindista",
+            "repo": "kindista",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Denso",
+          "description": "A controller package suite for robots from Densowave based on open-industrial-ros-controllers. [No License Specified].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2018-04-24T14:50:15Z",
+            "owner": "start-jsk",
+            "repo": "denso",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zen",
+          "description": "The zen X server in Common Lisp. GPL3.",
+          "children": []
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-cl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-07-07T11:19:23Z",
+            "owner": "CodyReichert",
+            "repo": "awesome-cl",
+            "stars": 2968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Lisp Company",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-12T10:31:18Z",
+            "owner": "azzamsa",
+            "repo": "awesome-lisp-companies",
+            "stars": 649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Common Lisp games",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lisp Game Jams",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-06-20T23:35:38Z",
+                "owner": "lispgames",
+                "repo": "lispgames.github.io",
+                "stars": 257
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-06-20T23:35:38Z",
+            "owner": "lispgames",
+            "repo": "lispgames.github.io",
+            "stars": 257
+          }
+        }
+      ],
+      "title": "Other Lists"
+    },
+    {
+      "description": "Thanks to All of Github contributors and Everyone @ reddit.com/r/lisp ad r/Common_Lisp/ for many suggestions and compliments.",
+      "items": [],
+      "title": "Contributors"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T00:07:40.728Z",
+    "original_repository": "azzamsa/awesome-cl-software",
+    "original_repository_sha": "e2ca09c8d6d8739ab2ca0b941bf6a65ed0e79f5a",
+    "enhanced_repository": "enhansome/enhansome-cl-software",
+    "enhanced_repository_description": null,
+    "title": "Awesome cl software with stars"
+  }
+}
