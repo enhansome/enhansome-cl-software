@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-08-07T15:25:00Z",
+            "last_commit": "2026-08-15T17:11:47Z",
             "owner": "openmusic-project",
             "repo": "openmusic",
             "stars": 416
@@ -313,7 +313,7 @@
               "repo_info": {
                 "archived": false,
                 "language": null,
-                "last_commit": "2026-08-14T22:04:48Z",
+                "last_commit": "2026-08-15T19:51:28Z",
                 "owner": "fricas",
                 "repo": "fricas",
                 "stars": 392
@@ -601,7 +601,7 @@
             "last_commit": "2026-06-16T08:08:29Z",
             "owner": "froggey",
             "repo": "Mezzano",
-            "stars": 3881
+            "stars": 3880
           }
         },
         {
@@ -635,7 +635,7 @@
             "last_commit": "2026-07-04T22:00:26Z",
             "owner": "tshatrov",
             "repo": "ichiran",
-            "stars": 403
+            "stars": 404
           }
         },
         {
@@ -836,10 +836,10 @@
           "repo_info": {
             "archived": false,
             "language": "Makefile",
-            "last_commit": "2026-07-07T11:19:23Z",
+            "last_commit": "2026-08-15T11:16:26Z",
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2968
+            "stars": 2967
           }
         },
         {
@@ -900,7 +900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:47:44.961Z",
+    "last_updated": "2026-08-15T23:44:31.166Z",
     "original_repository": "azzamsa/awesome-cl-software",
     "original_repository_sha": "e2ca09c8d6d8739ab2ca0b941bf6a65ed0e79f5a",
     "enhanced_repository": "enhansome/enhansome-cl-software",
