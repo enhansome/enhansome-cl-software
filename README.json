@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 148596909,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-15T17:11:47Z",
+                "last_commit": "2026-08-19T13:37:54Z",
                 "owner": "openmusic-project",
                 "repo": "openmusic",
                 "stars": 416
@@ -210,7 +210,7 @@
                 "last_commit": "2026-07-09T13:28:08Z",
                 "owner": "cbaggers",
                 "repo": "cepl",
-                "stars": 886
+                "stars": 887
               }
             },
             {
@@ -354,7 +354,7 @@
                     "last_commit": "2026-08-08T22:20:02Z",
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2072
+                    "stars": 2073
                   }
                 },
                 {
@@ -398,7 +398,7 @@
                     "archived": false,
                     "id": 19549841,
                     "language": null,
-                    "last_commit": "2026-08-18T13:42:42Z",
+                    "last_commit": "2026-08-19T23:45:33Z",
                     "owner": "fricas",
                     "repo": "fricas",
                     "stars": 392
@@ -639,7 +639,7 @@
                     "last_commit": "2026-01-18T18:36:11Z",
                     "owner": "vydd",
                     "repo": "sketch",
-                    "stars": 1496
+                    "stars": 1497
                   }
                 },
                 {
@@ -837,7 +837,7 @@
                 "last_commit": "2026-08-16T12:25:41Z",
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3883
+                "stars": 3884
               }
             },
             {
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:19:01.868Z",
+    "last_updated": "2026-08-19T23:46:47.358Z",
     "original_repository": "azzamsa/awesome-cl-software",
     "original_repository_id": 107772913,
     "original_repository_sha": "e2ca09c8d6d8739ab2ca0b941bf6a65ed0e79f5a",
