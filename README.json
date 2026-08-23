@@ -242,7 +242,7 @@
                     "last_commit": "2026-07-24T14:35:08Z",
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6499
+                    "stars": 6498
                   }
                 },
                 {
@@ -294,7 +294,7 @@
                     "last_commit": "2025-02-17T05:12:18Z",
                     "owner": "neomacs-project",
                     "repo": "neomacs",
-                    "stars": 284
+                    "stars": 285
                   }
                 },
                 {
@@ -1015,7 +1015,7 @@
                 "last_commit": "2026-05-30T01:59:00Z",
                 "owner": "stumpwm",
                 "repo": "stumpwm",
-                "stars": 2026
+                "stars": 2022
               }
             },
             {
@@ -1093,7 +1093,7 @@
             "last_commit": "2026-08-17T18:33:43Z",
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2969
+            "stars": 2970
           }
         },
         {
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:45:24.946Z",
+    "last_updated": "2026-08-23T23:45:39.136Z",
     "original_repository": "azzamsa/awesome-cl-software",
     "original_repository_id": 107772913,
     "original_repository_sha": "e2ca09c8d6d8739ab2ca0b941bf6a65ed0e79f5a",
