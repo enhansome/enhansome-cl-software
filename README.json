@@ -79,6 +79,36 @@
                 "repo": "ernestine",
                 "stars": 6
               }
+            },
+            {
+              "node_type": "item",
+              "title": "oscl",
+              "description": "a minimal CLI tool that lets you send and receive OSC messages from the terminal, making it useful for scripting, testing, and quick integration with OSC-enabled systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 979265675,
+                "language": "Common Lisp",
+                "last_commit": "2025-06-04T08:22:42Z",
+                "owner": "ogrew",
+                "repo": "oscl",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shuffletron",
+              "description": "a search-based music player for the terminal. MIT-style licence. stalling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 463768,
+                "language": "Common Lisp",
+                "last_commit": "2024-10-23T03:03:23Z",
+                "owner": "ahefner",
+                "repo": "shuffletron",
+                "stars": 52
+              }
             }
           ],
           "description": "Terminal applications:\nstalling:",
@@ -101,6 +131,43 @@
                 "repo": "ext-blog",
                 "stars": 44
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Klipse",
+              "description": "written in ClojureScript, allows to include run-able code snippets, including Common Lisp.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46494844,
+                "language": "HTML",
+                "last_commit": "2024-10-01T08:57:24Z",
+                "owner": "viebel",
+                "repo": "klipse",
+                "stars": 3134
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Coleslaw",
+                  "description": "Flexible Lisp Blogware.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1387472,
+                    "language": "Common Lisp",
+                    "last_commit": "2024-12-12T13:42:37Z",
+                    "owner": "coleslaw-org",
+                    "repo": "coleslaw",
+                    "stars": 584
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Static Blog Generator"
             }
           ],
           "description": "See also:",
@@ -137,6 +204,21 @@
                 "owner": "Shinmera",
                 "repo": "colleen",
                 "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Potato",
+              "description": "Delicious conversations platform in Common Lisp and ClojureScript. [stalling]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 48153988,
+                "language": "Common Lisp",
+                "last_commit": "2018-06-04T02:55:55Z",
+                "owner": "cicakhq",
+                "repo": "potato",
+                "stars": 169
               }
             },
             {
@@ -226,6 +308,21 @@
                 "owner": "phantomics",
                 "repo": "seed",
                 "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gitwatch",
+              "description": "Notify a Discord channel when repos are updated.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 710660663,
+                "language": "Common Lisp",
+                "last_commit": "2023-11-03T08:53:54Z",
+                "owner": "garlic0x1",
+                "repo": "gitwatch",
+                "stars": 1
               }
             },
             {
@@ -354,7 +451,7 @@
                     "last_commit": "2026-08-20T09:02:52Z",
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2077
+                    "stars": 2078
                   }
                 },
                 {
@@ -376,11 +473,71 @@
               "description": "and also:\nClassical CL tools (Emacs front-end (Slime), CL back-end (Swank)):\nThird-party:\nFor more lisp development libraries, see Awesome-cl.",
               "node_type": "group",
               "title": "Editors"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "gilt",
+                  "description": "LazyGit-inspired TUI for Git.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1147165822,
+                    "language": "Common Lisp",
+                    "last_commit": "2026-08-20T18:14:07Z",
+                    "owner": "parenworks",
+                    "repo": "gilt",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Others"
             }
           ],
           "description": "Terminal applications:",
           "node_type": "group",
           "title": "Development Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mcclim-desktop",
+              "description": "a launcher of McClim applications. (stalled)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "console",
+                  "description": ", threads manager, image editor…",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52040928,
+                    "language": "Common Lisp",
+                    "last_commit": "2021-11-16T08:29:59Z",
+                    "owner": "gas2serra",
+                    "repo": "mcclim-desktop",
+                    "stars": 30
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 52040928,
+                "language": "Common Lisp",
+                "last_commit": "2021-11-16T08:29:59Z",
+                "owner": "gas2serra",
+                "repo": "mcclim-desktop",
+                "stars": 30
+              }
+            }
+          ],
+          "description": "For inspiration:",
+          "node_type": "group",
+          "title": "Desktop Environment"
         },
         {
           "children": [
@@ -434,6 +591,43 @@
           "description": null,
           "node_type": "group",
           "title": "Education"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Filer",
+              "description": "Mezzano File Manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29929783,
+                "language": "Common Lisp",
+                "last_commit": "2026-08-16T12:25:41Z",
+                "owner": "froggey",
+                "repo": "Mezzano",
+                "stars": 3886
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cl-tuition library's file manager example",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1073370914,
+                "language": "Common Lisp",
+                "last_commit": "2026-08-09T12:35:07Z",
+                "owner": "atgreen",
+                "repo": "cl-tuition",
+                "stars": 144
+              }
+            }
+          ],
+          "description": "See also:",
+          "node_type": "group",
+          "title": "File Manager"
         },
         {
           "children": [
@@ -617,6 +811,21 @@
                 "repo": "ninja-sphere",
                 "stars": 7
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Cl-dino",
+              "description": "A Chrome Dinosaur Robot. GPL3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66251646,
+                "language": "Common Lisp",
+                "last_commit": "2023-02-23T04:59:56Z",
+                "owner": "VitoVan",
+                "repo": "cl-dino",
+                "stars": 217
+              }
             }
           ],
           "description": "Those appeared in game jams (the list is not exhaustive):\nA Chrome Dinosaur robot:\nSee also:",
@@ -625,6 +834,36 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "charapainter",
+              "description": "Drawing & converting images with colorful characters. Export to image, HTML and terminal. Desktop application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 939279588,
+                "language": "Common Lisp",
+                "last_commit": "2025-09-14T10:21:09Z",
+                "owner": "calsys456",
+                "repo": "charapainter",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cl-pkr",
+              "description": "a cross-platform color picker. GPL3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189375048,
+                "language": "Common Lisp",
+                "last_commit": "2022-09-30T05:30:22Z",
+                "owner": "VitoVan",
+                "repo": "cl-pkr",
+                "stars": 49
+              }
+            },
             {
               "children": [
                 {
@@ -670,6 +909,21 @@
                     "owner": "inconvergent",
                     "repo": "weir",
                     "stars": 638
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "visp",
+                  "description": "ffmpeg wrapper CLI tool. MIT.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 969190826,
+                    "language": "Common Lisp",
+                    "last_commit": "2025-06-25T09:43:39Z",
+                    "owner": "ogrew",
+                    "repo": "visp",
+                    "stars": 19
                   }
                 }
               ],
@@ -785,6 +1039,43 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Nyxt",
+                  "description": "The fastest productivity web-browser.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 87668160,
+                    "language": "Common Lisp",
+                    "last_commit": "2026-02-26T14:36:03Z",
+                    "owner": "atlas-engineer",
+                    "repo": "nyxt",
+                    "stars": 11005
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Lispkit",
+                  "description": "A lisp web browser using WebKit",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22735290,
+                    "language": "Common Lisp",
+                    "last_commit": "2016-05-19T20:26:42Z",
+                    "owner": "AeroNotix",
+                    "repo": "lispkit",
+                    "stars": 243
+                  }
+                }
+              ],
+              "description": "Deprecated:",
+              "node_type": "group",
+              "title": "Browser"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "lisp-chat",
                   "description": "An experimental chat irc-like written in Lisp.",
                   "children": [],
@@ -817,6 +1108,28 @@
               "description": null,
               "node_type": "group",
               "title": "Chat"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "cl-torrents",
+                  "description": "a library and app with a command line and readline interface to search for torrents on popular trackers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 105710461,
+                    "language": "Common Lisp",
+                    "last_commit": "2025-01-14T11:10:07Z",
+                    "owner": "vindarel",
+                    "repo": "cl-torrents",
+                    "stars": 118
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Torrent"
             }
           ],
           "description": null,
@@ -906,6 +1219,37 @@
                 "repo": "deftask-cli",
                 "stars": 18
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Turtl",
+              "description": "a secure note taking, bookmarking and document storage app. [AGPL].",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "however, while you can still find the Common Lisp components",
+                  "description": "of Turtl, it was migrated to JavaScript. Read more: http://lisp-journey.gitlab.io/blog/why-turtl-switched-from-lisp-to-js/",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18902544,
+                    "language": "Common Lisp",
+                    "last_commit": "2015-11-23T01:30:59Z",
+                    "owner": "turtl",
+                    "repo": "core-cl",
+                    "stars": 51
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 12199743,
+                "language": "Common Lisp",
+                "last_commit": "2018-12-02T20:23:17Z",
+                "owner": "turtl",
+                "repo": "api",
+                "stars": 238
+              }
             }
           ],
           "description": "See also:",
@@ -948,6 +1292,28 @@
           "description": null,
           "node_type": "group",
           "title": "Publishing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🚀Reddit v1 source code",
+              "description": "(reddit). Proprietary.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127770302,
+                "language": "Common Lisp",
+                "last_commit": "2025-07-11T00:45:53Z",
+                "owner": "tamurashingo",
+                "repo": "reddit1.0",
+                "stars": 64
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Social news"
         },
         {
           "children": [
@@ -1005,6 +1371,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Terentino",
+              "description": "Mezzano Video Player. MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29929783,
+                "language": "Common Lisp",
+                "last_commit": "2026-08-16T12:25:41Z",
+                "owner": "froggey",
+                "repo": "Mezzano",
+                "stars": 3886
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video Player"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Aliw",
+              "description": "A Lisp in Wonderland (aka. ALIW) is a wiki software. 2-clause BSD.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 9371081,
+                "language": "Common Lisp",
+                "last_commit": "2013-04-12T07:05:40Z",
+                "owner": "vy",
+                "repo": "aliw",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Wiki software"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Stumpwm",
               "description": "The Stump Window Manager.",
               "children": [],
@@ -1015,7 +1425,7 @@
                 "last_commit": "2026-05-30T01:59:00Z",
                 "owner": "stumpwm",
                 "repo": "stumpwm",
-                "stars": 2022
+                "stars": 2023
               }
             },
             {
@@ -1069,6 +1479,28 @@
                 "repo": "denso",
                 "stars": 20
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Endless list. See complete list branch",
+                  "description": ".",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 107772913,
+                    "language": null,
+                    "last_commit": "2026-06-20T08:01:36Z",
+                    "owner": "azzamsa",
+                    "repo": "awesome-cl-software",
+                    "stars": 396
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Historical Purposes"
             }
           ],
           "description": null,
@@ -1147,7 +1579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:45:39.136Z",
+    "last_updated": "2026-08-24T14:27:44.881Z",
     "original_repository": "azzamsa/awesome-cl-software",
     "original_repository_id": 107772913,
     "original_repository_sha": "e2ca09c8d6d8739ab2ca0b941bf6a65ed0e79f5a",

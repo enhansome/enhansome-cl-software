@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,303 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -89,6 +89,7 @@ See also:
 
 Terminal applications:
 
+* [oscl](https://github.com/ogrew/oscl) ⭐ 9 | 🐛 0 | 🌐 Common Lisp | 📅 2025-06-04 - a minimal CLI tool that lets you send and receive OSC messages from the terminal, making it useful for scripting, testing, and quick integration with OSC-enabled systems.
 * [Benben](https://chiselapp.com/user/MistressRemilia/repository/benben/dir?ci=tip) - a fast and efficient command line audio player and audio converter for Linux and other Unix-like systems with an oldschool-inspired interface. It supports multiple formats, and is especially suited to people who organize their music in folders.
   * with AppImages (for Linux x86-64)
   * project goals:
@@ -97,7 +98,6 @@ Terminal applications:
     * Fast rendering of multiple files to WAV and Au in parallel.
     * An optional set of high-quality effects, such as an equalizer and reverb.
     * project non-goal: a file browser to add files while Benben is running. This would directly contradict project goal #2.
-* [oscl](https://github.com/ogrew/oscl) ⭐ 9 | 🐛 0 | 🌐 Common Lisp | 📅 2025-06-04 - a minimal CLI tool that lets you send and receive OSC messages from the terminal, making it useful for scripting, testing, and quick integration with OSC-enabled systems.
 
 ![](benben.png "benben music player and audio converter")
 
@@ -172,7 +172,7 @@ and also:
 
 Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
-* [SLIME](https://github.com/slime/slime) ⭐ 2,077 | 🐛 286 | 🌐 Common Lisp | 📅 2026-08-20 - The Superior Lisp Interaction Mode for Emacs.
+* [SLIME](https://github.com/slime/slime) ⭐ 2,078 | 🐛 286 | 🌐 Common Lisp | 📅 2026-08-20 - The Superior Lisp Interaction Mode for Emacs.
 * [Sly](https://github.com/joaotavora/sly) ⭐ 1,431 | 🐛 190 | 🌐 Common Lisp | 📅 2026-08-01 - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 Third-party:
@@ -183,8 +183,8 @@ For more lisp development libraries, see [Awesome-cl](https://github.com/CodyRei
 
 #### Others
 
-* [Regex-coach](http://weitz.de/regex-coach/) - a graphical application for Windows which can be used to experiment with (Perl-compatible) regular expressions interactively. Freeware.
 * [gilt](https://github.com/parenworks/gilt) ⭐ 9 | 🐛 0 | 🌐 Common Lisp | 📅 2026-08-20 -  LazyGit-inspired TUI for Git.
+* [Regex-coach](http://weitz.de/regex-coach/) - a graphical application for Windows which can be used to experiment with (Perl-compatible) regular expressions interactively. Freeware.
 
 <img src="https://raw.githubusercontent.com/parenworks/gilt/master/images/gilt1.png" title="gitl TUI" alt="gilt TUI for git." style="max-width: 100%"/>
 
@@ -218,8 +218,8 @@ For inspiration:
 
 See also:
 
+* cl-tuition library's [file manager example](https://github.com/atgreen/cl-tuition/tree/master?tab=readme-ov-file#gallery) ⭐ 144 | 🐛 3 | 🌐 Common Lisp | 📅 2026-08-09.
 * [Lem's directory-mode](https://lem-project.github.io/modes/directory/).
-* cl-tuition library's [file manager example](https://github.com/atgreen/cl-tuition/tree/master?tab=readme-ov-file#gallery) ⭐ 143 | 🐛 3 | 🌐 Common Lisp | 📅 2026-08-09.
 
 ![The Lem editor's directory mode](https://github-production-user-asset-6210df.s3.amazonaws.com/13656378/239887331-8c790229-1f7c-4581-b093-9c56d4d85420.png "Lem's directory mode")
 
@@ -322,7 +322,7 @@ Terminal applications:
 
 #### Browser
 
-* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,004 | 🐛 145 | 🌐 Common Lisp | 📅 2026-02-26 - The fastest productivity web-browser.
+* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,005 | 🐛 145 | 🌐 Common Lisp | 📅 2026-02-26 - The fastest productivity web-browser.
 
 Deprecated:
 
@@ -387,7 +387,7 @@ See also:
 
 ### Window Manager
 
-* [Stumpwm](https://github.com/stumpwm/stumpwm) ⭐ 2,022 | 🐛 90 | 🌐 Common Lisp | 📅 2026-05-30 - The Stump Window Manager.
+* [Stumpwm](https://github.com/stumpwm/stumpwm) ⭐ 2,023 | 🐛 90 | 🌐 Common Lisp | 📅 2026-05-30 - The Stump Window Manager.
 * [Paulownia](https://github.com/stumpwm/paulownia) ⚠️ Archived - A modern re-write of stumpwm. [GPL2].
 
 ### Other
@@ -400,6 +400,7 @@ See also:
 
 #### Historical Purposes
 
+* Endless list. See [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list) ⭐ 396 | 🐛 2 | 📅 2026-06-20.
 * [DART](https://en.wikipedia.org/wiki/Dynamic_Analysis_and_Replanning_Tool) - Application to optimize and schedule the transportation of supplies or personnel and solve other logistical problems.
 * [ICAD](https://en.wikipedia.org/wiki/ICAD_\(software\)) - A knowledge-based CAD system.
 * [Interleaf Publisher](https://en.wikipedia.org/wiki/Interleaf) - A document processor.
@@ -409,7 +410,6 @@ See also:
 * [Sk8](https://en.wikipedia.org/wiki/SK8) - A multimedia authoring environment.
 * [Action!][Expat] - Expertelligence' Interface Designer.
 * [PRISM](http://www.radonc.washington.edu/medinfo/prism/) - The Prism project is a long term project to build software tools for radiation therapy planning, including artificial intelligence tools as well as manual simulation systems.
-* Endless list. See [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list) ⭐ 396 | 🐛 2 | 📅 2026-06-20.
 
 ## Mobile Applications
 
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
