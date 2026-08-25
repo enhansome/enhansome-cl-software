@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,614 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,704 | 🐛 106 | 📅 2026-08-21
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -151,7 +151,7 @@ Terminal applications:
 
 #### Databases
 
-* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,500 | 🐛 27 | 🌐 Common Lisp | 📅 2026-07-24 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
+* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,499 | 🐛 27 | 🌐 Common Lisp | 📅 2026-07-24 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
 * ⭐ [Pgchart](https://github.com/dimitri/pgcharts) ⭐ 402 | 🐛 13 | 🌐 Common Lisp | 📅 2020-06-01 - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. \[No License Specified]
 * ⭐ [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
@@ -358,7 +358,7 @@ Deprecated:
 
 See also:
 
-* [Turtl](https://github.com/turtl/api) ⭐ 238 | 🐛 22 | 🌐 Common Lisp | 📅 2018-12-02 - a secure note taking, bookmarking and document storage app. \[AGPL].
+* [Turtl](https://github.com/turtl/api) ⭐ 239 | 🐛 22 | 🌐 Common Lisp | 📅 2018-12-02 - a secure note taking, bookmarking and document storage app. \[AGPL].
   * however, while you can still find the [Common Lisp components](https://github.com/turtl/core-cl) ⭐ 51 | 🐛 0 | 🌐 Common Lisp | 📅 2015-11-23 of Turtl, it was migrated to JavaScript. Read more: <http://lisp-journey.gitlab.io/blog/why-turtl-switched-from-lisp-to-js/>
 
 ### Publishing
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
