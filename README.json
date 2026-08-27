@@ -339,7 +339,7 @@
                     "last_commit": "2026-07-24T14:35:08Z",
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6500
+                    "stars": 6505
                   }
                 },
                 {
@@ -376,7 +376,7 @@
                     "last_commit": "2026-08-12T12:56:41Z",
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3031
+                    "stars": 3032
                   }
                 },
                 {
@@ -448,10 +448,10 @@
                     "archived": false,
                     "id": 15344025,
                     "language": "Common Lisp",
-                    "last_commit": "2026-08-25T21:53:34Z",
+                    "last_commit": "2026-08-27T02:17:27Z",
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2078
+                    "stars": 2079
                   }
                 },
                 {
@@ -466,7 +466,7 @@
                     "last_commit": "2026-08-01T13:17:57Z",
                     "owner": "joaotavora",
                     "repo": "sly",
-                    "stars": 1431
+                    "stars": 1432
                   }
                 }
               ],
@@ -606,7 +606,7 @@
                 "last_commit": "2026-08-16T12:25:41Z",
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3886
+                "stars": 3887
               }
             },
             {
@@ -1150,7 +1150,7 @@
                 "last_commit": "2026-08-16T12:25:41Z",
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3886
+                "stars": 3887
               }
             },
             {
@@ -1381,7 +1381,7 @@
                 "last_commit": "2026-08-16T12:25:41Z",
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3886
+                "stars": 3887
               }
             }
           ],
@@ -1579,7 +1579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:49:20.671Z",
+    "last_updated": "2026-08-27T04:37:53.638Z",
     "original_repository": "azzamsa/awesome-cl-software",
     "original_repository_id": 107772913,
     "original_repository_sha": "e2ca09c8d6d8739ab2ca0b941bf6a65ed0e79f5a",
