@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T13:37:54Z",
                 "owner": "openmusic-project",
                 "repo": "openmusic",
-                "stars": 415
+                "stars": 416
               }
             },
             {
@@ -1579,9 +1579,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:37:53.638Z",
-    "original_repository": "azzamsa/awesome-cl-software",
-    "original_repository_id": 107772913,
+    "last_updated": "2026-08-27T11:35:24.200Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 107772913,
+      "language": null,
+      "last_commit": "2026-06-20T08:01:36Z",
+      "owner": "azzamsa",
+      "repo": "awesome-cl-software",
+      "stars": 396
+    },
     "original_repository_sha": "e2ca09c8d6d8739ab2ca0b941bf6a65ed0e79f5a",
     "enhanced_repository": "enhansome/enhansome-cl-software",
     "enhanced_repository_description": null,
