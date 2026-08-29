@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,632 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -13,7 +13,7 @@
 
 This is a list of awesome [application software](https://en.wikipedia.org/wiki/Application_software) built with Common Lisp.
 
-We want to keep the 'master' list curated. If you want to uncurated list, see [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list) ⭐ 396 | 🐛 2 | 📅 2026-06-20.
+We want to keep the 'master' list curated. If you want to uncurated list, see [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list) ⭐ 397 | 🐛 2 | 📅 2026-06-20.
 
 See also:
 
@@ -151,7 +151,7 @@ Terminal applications:
 
 #### Databases
 
-* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,506 | 🐛 28 | 🌐 Common Lisp | 📅 2026-07-24 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
+* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,508 | 🐛 28 | 🌐 Common Lisp | 📅 2026-07-24 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
 * ⭐ [Pgchart](https://github.com/dimitri/pgcharts) ⭐ 402 | 🐛 13 | 🌐 Common Lisp | 📅 2020-06-01 - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. \[No License Specified]
 * ⭐ [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
@@ -172,7 +172,7 @@ and also:
 
 Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
-* [SLIME](https://github.com/slime/slime) ⭐ 2,079 | 🐛 285 | 🌐 Common Lisp | 📅 2026-08-28 - The Superior Lisp Interaction Mode for Emacs.
+* [SLIME](https://github.com/slime/slime) ⭐ 2,079 | 🐛 286 | 🌐 Common Lisp | 📅 2026-08-28 - The Superior Lisp Interaction Mode for Emacs.
 * [Sly](https://github.com/joaotavora/sly) ⭐ 1,432 | 🐛 190 | 🌐 Common Lisp | 📅 2026-08-01 - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 Third-party:
@@ -218,7 +218,7 @@ For inspiration:
 
 See also:
 
-* cl-tuition library's [file manager example](https://github.com/atgreen/cl-tuition/tree/master?tab=readme-ov-file#gallery) ⭐ 144 | 🐛 3 | 🌐 Common Lisp | 📅 2026-08-09.
+* cl-tuition library's [file manager example](https://github.com/atgreen/cl-tuition/tree/master?tab=readme-ov-file#gallery) ⭐ 146 | 🐛 3 | 🌐 Common Lisp | 📅 2026-08-09.
 * [Lem's directory-mode](https://lem-project.github.io/modes/directory/).
 
 ![The Lem editor's directory mode](https://github-production-user-asset-6210df.s3.amazonaws.com/13656378/239887331-8c790229-1f7c-4581-b093-9c56d4d85420.png "Lem's directory mode")
@@ -348,7 +348,7 @@ Deprecated:
 
 ### Productivity
 
-* [Ichiran](https://github.com/tshatrov/ichiran) ⭐ 406 | 🐛 13 | 🌐 Common Lisp | 📅 2026-07-04 - Linguistic tools for texts in Japanese language. [MIT].
+* [Ichiran](https://github.com/tshatrov/ichiran) ⭐ 407 | 🐛 13 | 🌐 Common Lisp | 📅 2026-07-04 - Linguistic tools for texts in Japanese language. [MIT].
 * [Projectured](https://github.com/projectured/projectured) ⚠️ Archived -  ProjecturEd is a generic purpose projectional editor. \[No License Specified].
 * [Deftask](https://github.com/deftask/deftask-cli) ⭐ 18 | 🐛 1 | 🌐 Common Lisp | 📅 2019-01-30 - Painless task management for teams. \[Partly Open Source].
 * [Grammarly](https://www.grammarly.com/) - Grammar checking. [Proprietary].
@@ -400,7 +400,7 @@ See also:
 
 #### Historical Purposes
 
-* Endless list. See [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list) ⭐ 396 | 🐛 2 | 📅 2026-06-20.
+* Endless list. See [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list) ⭐ 397 | 🐛 2 | 📅 2026-06-20.
 * [DART](https://en.wikipedia.org/wiki/Dynamic_Analysis_and_Replanning_Tool) - Application to optimize and schedule the transportation of supplies or personnel and solve other logistical problems.
 * [ICAD](https://en.wikipedia.org/wiki/ICAD_\(software\)) - A knowledge-based CAD system.
 * [Interleaf Publisher](https://en.wikipedia.org/wiki/Interleaf) - A document processor.
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
