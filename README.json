@@ -69,7 +69,7 @@
                 "id": 60676733,
                 "language": "Common Lisp",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-31T14:43:13Z",
+                "last_commit": "2026-09-03T16:14:36Z",
                 "open_issues": 1,
                 "owner": "titola",
                 "repo": "incudine",
@@ -285,8 +285,8 @@
                 "id": 84357579,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-08-28T15:26:59Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-03T19:12:29Z",
+                "open_issues": 5,
                 "owner": "ryukinix",
                 "repo": "lisp-chat",
                 "stars": 206,
@@ -511,7 +511,7 @@
                     "open_issues": 28,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6515,
+                    "stars": 6516,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -570,11 +570,11 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-08-31T16:59:32Z",
-                    "open_issues": 92,
+                    "last_commit": "2026-09-03T12:06:54Z",
+                    "open_issues": 90,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3035,
+                    "stars": 3034,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -933,7 +933,7 @@
                 "open_issues": 3,
                 "owner": "atgreen",
                 "repo": "cl-tuition",
-                "stars": 146,
+                "stars": 147,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1314,7 +1314,7 @@
                     "open_issues": 39,
                     "owner": "vydd",
                     "repo": "sketch",
-                    "stars": 1497,
+                    "stars": 1498,
                     "topics": [
                       "2d",
                       "art",
@@ -1344,7 +1344,7 @@
                     "open_issues": 33,
                     "owner": "kaveh808",
                     "repo": "kons-9",
-                    "stars": 653,
+                    "stars": 654,
                     "topics": [
                       "3d-animation",
                       "3d-graphics",
@@ -1574,7 +1574,7 @@
                     "open_issues": 145,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11014,
+                    "stars": 11015,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1631,8 +1631,8 @@
                     "id": 84357579,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T15:26:59Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-09-03T19:12:29Z",
+                    "open_issues": 5,
                     "owner": "ryukinix",
                     "repo": "lisp-chat",
                     "stars": 206,
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:18:00.552Z",
+    "last_updated": "2026-09-04T01:09:54.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
