@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
-                "stars": 417,
+                "stars": 418,
                 "topics": [
                   "computer-aided-composition",
                   "music",
@@ -511,7 +511,7 @@
                     "open_issues": 28,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6516,
+                    "stars": 6518,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -571,7 +571,7 @@
                     "language": "Common Lisp",
                     "license": "MIT",
                     "last_commit": "2026-09-03T12:06:54Z",
-                    "open_issues": 90,
+                    "open_issues": 89,
                     "owner": "lem-project",
                     "repo": "lem",
                     "stars": 3034,
@@ -599,7 +599,7 @@
                     "open_issues": 14,
                     "owner": "neomacs-project",
                     "repo": "neomacs",
-                    "stars": 285,
+                    "stars": 284,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -679,8 +679,8 @@
                     "id": 15344025,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-09-01T12:40:03Z",
-                    "open_issues": 287,
+                    "last_commit": "2026-09-04T03:21:03Z",
+                    "open_issues": 288,
                     "owner": "slime",
                     "repo": "slime",
                     "stars": 2081,
@@ -707,7 +707,7 @@
                     "open_issues": 190,
                     "owner": "joaotavora",
                     "repo": "sly",
-                    "stars": 1434,
+                    "stars": 1435,
                     "topics": [
                       "common-lisp",
                       "emacs",
@@ -1040,7 +1040,7 @@
                 "id": 1005577180,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-06-14T21:56:41Z",
+                "last_commit": "2026-09-04T14:24:42Z",
                 "open_issues": 0,
                 "owner": "atgreen",
                 "repo": "ctfg",
@@ -1961,7 +1961,7 @@
                 "open_issues": 3,
                 "owner": "tamurashingo",
                 "repo": "reddit1.0",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "common-lisp",
                   "reddit"
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:09:54.029Z",
+    "last_updated": "2026-09-05T01:15:02.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",

@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,728 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,032 | 🐛 106 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -72,7 +72,7 @@ See also:
 
 ### Audio
 
-* ⭐ [OpenMusic](https://github.com/openmusic-project/openmusic/) ⭐ 417 | 🐛 6 | 🌐 Common Lisp | 📅 2026-09-02 visual programming / computer-aided composition environment. \[GPL3]\[2].
+* ⭐ [OpenMusic](https://github.com/openmusic-project/openmusic/) ⭐ 418 | 🐛 6 | 🌐 Common Lisp | 📅 2026-09-02 visual programming / computer-aided composition environment. \[GPL3]\[2].
   * developped at [IRCAM](https://www.stms-lab.fr/team/representations-musicales/), France. The base of other research projects and software, such as [MusiqueLab2](https://www.stms-lab.fr/shop/product/musique-lab-2/), distributed by France's ministry of education to all music teachers.
 * ⭐ [OM7](https://github.com/openmusic-project/om7) ⭐ 176 | 🐛 31 | 🌐 Common Lisp | 📅 2022-09-14 - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. \[GPL3]\[2].
 * [Incudine](https://github.com/titola/incudine) ⭐ 60 | 🐛 1 | 🌐 Common Lisp | 📅 2026-09-03 -  Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly.
@@ -151,16 +151,16 @@ Terminal applications:
 
 #### Databases
 
-* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,516 | 🐛 28 | 🌐 Common Lisp | 📅 2026-07-24 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
+* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,518 | 🐛 28 | 🌐 Common Lisp | 📅 2026-07-24 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
 * ⭐ [Pgchart](https://github.com/dimitri/pgcharts) ⭐ 402 | 🐛 13 | 🌐 Common Lisp | 📅 2020-06-01 - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. \[No License Specified]
 * ⭐ [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
 #### Editors
 
-* [Lem](https://github.com/cxxxr/lem) ⭐ 3,034 | 🐛 90 | 🌐 Common Lisp | 📅 2026-09-03 - Common Lisp editor/IDE with high expansibility. [MIT].
+* [Lem](https://github.com/cxxxr/lem) ⭐ 3,034 | 🐛 89 | 🌐 Common Lisp | 📅 2026-09-03 - Common Lisp editor/IDE with high expansibility. [MIT].
   * works out of the box for many languages. Has a Language Server Protocol (LSP) client.
   * Git interface
-* [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 285 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
+* [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 284 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
 
 ![](https://github.com/neomacs-project/neomacs/raw/master/matrix.png "Neomacs")
 
@@ -172,8 +172,8 @@ and also:
 
 Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
-* [SLIME](https://github.com/slime/slime) ⭐ 2,081 | 🐛 287 | 🌐 Common Lisp | 📅 2026-09-01 - The Superior Lisp Interaction Mode for Emacs.
-* [Sly](https://github.com/joaotavora/sly) ⭐ 1,434 | 🐛 190 | 🌐 Common Lisp | 📅 2026-08-01 - Sylvester the Cat's Common Lisp IDE (slime's fork)
+* [SLIME](https://github.com/slime/slime) ⭐ 2,081 | 🐛 288 | 🌐 Common Lisp | 📅 2026-09-04 - The Superior Lisp Interaction Mode for Emacs.
+* [Sly](https://github.com/joaotavora/sly) ⭐ 1,435 | 🐛 190 | 🌐 Common Lisp | 📅 2026-08-01 - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 Third-party:
 
@@ -229,7 +229,7 @@ See also:
   * Uses the [Trial](https://github.com/shirakumo/trial) ⚠️ Archived game engine.
   * entirely made in Common Lisp. Published on Steam.
 * [sucle](https://github.com/terminal625/sucle) ⭐ 309 | 🐛 11 | 🌐 Common Lisp | 📅 2022-07-31 - A Minecraft clone (voxel game engine). [MIT].
-* [Capture the Flag engine](https://github.com/atgreen/ctfg) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-14 - challenges with a live scoreboard.
+* [Capture the Flag engine](https://github.com/atgreen/ctfg) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-04 - challenges with a live scoreboard.
   * alternative to the open source python-based game engine (CTFd): "It's mostly OK, but we had serious performance problems (UI locking up) when we approached any kind of interesting scale."
   * "a style of game that's popular in cybersecurity circles, where you are presented with a series of challenges that, when solved, provides text "flags". The flags gives you points. It's a competition, which is why ctfg has a live scoreboard. I would run this as a live, in-person event, and have the live scoreboard up on the big screen to make it exciting. I don't run it as a cybersecurity event. It's more of a fun kubernetes training experience."
   * [reddit announce](https://www.reddit.com/r/Common_Lisp/comments/1m4twe9/ctfg_a_capturetheflag_game_engine_in_common_lisp/)
@@ -369,7 +369,7 @@ See also:
 
 ### Social news
 
-* 🚀[Reddit v1 source code](https://github.com/tamurashingo/reddit1.0/) ⭐ 64 | 🐛 3 | 🌐 Common Lisp | 📅 2025-07-11 ([reddit](https://www.reddit.com/r/programming/comments/883vzs/old_reddit_source_code/)). [Proprietary].
+* 🚀[Reddit v1 source code](https://github.com/tamurashingo/reddit1.0/) ⭐ 65 | 🐛 3 | 🌐 Common Lisp | 📅 2025-07-11 ([reddit](https://www.reddit.com/r/programming/comments/883vzs/old_reddit_source_code/)). [Proprietary].
 
 ### Utilities
 
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
