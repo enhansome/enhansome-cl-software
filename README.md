@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,333 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,687 | 🐛 106 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -151,13 +151,13 @@ Terminal applications:
 
 #### Databases
 
-* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,519 | 🐛 28 | 🌐 Common Lisp | 📅 2026-07-24 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
+* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,520 | 🐛 28 | 🌐 Common Lisp | 📅 2026-07-24 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
 * ⭐ [Pgchart](https://github.com/dimitri/pgcharts) ⭐ 402 | 🐛 13 | 🌐 Common Lisp | 📅 2020-06-01 - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. \[No License Specified]
 * ⭐ [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
 #### Editors
 
-* [Lem](https://github.com/cxxxr/lem) ⭐ 3,035 | 🐛 91 | 🌐 Common Lisp | 📅 2026-09-03 - Common Lisp editor/IDE with high expansibility. [MIT].
+* [Lem](https://github.com/cxxxr/lem) ⭐ 3,036 | 🐛 90 | 🌐 Common Lisp | 📅 2026-09-03 - Common Lisp editor/IDE with high expansibility. [MIT].
   * works out of the box for many languages. Has a Language Server Protocol (LSP) client.
   * Git interface
 * [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 284 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
@@ -179,7 +179,7 @@ Third-party:
 
 * [Judge0 IDE](https://ide.judge0.com/?lUpj) is an online editor which supports Common Lisp (SBCL). \[MIT]\[200].
 
-For more lisp development libraries, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,977 | 🐛 47 | 🌐 Makefile | 📅 2026-09-01.
+For more lisp development libraries, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,978 | 🐛 47 | 🌐 Makefile | 📅 2026-09-01.
 
 #### Others
 
@@ -322,7 +322,7 @@ Terminal applications:
 
 #### Browser
 
-* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,016 | 🐛 145 | 🌐 Common Lisp | 📅 2026-02-26 - The fastest productivity web-browser.
+* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,015 | 🐛 145 | 🌐 Common Lisp | 📅 2026-02-26 - The fastest productivity web-browser.
 
 Deprecated:
 
@@ -422,7 +422,7 @@ See also:
 
 ## Other Lists
 
-* [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,977 | 🐛 47 | 🌐 Makefile | 📅 2026-09-01
+* [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,978 | 🐛 47 | 🌐 Makefile | 📅 2026-09-01
 * [Awesome Lisp Company](https://github.com/azzamsa/awesome-lisp-companies) ⭐ 649 | 🐛 7 | 📅 2026-06-12
 * [Common Lisp games](https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp) ⭐ 257 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
   * [Lisp Game Jams](https://github.com/lispgames/lispgames.github.io/wiki/Lisp-Game-Jams) ⭐ 257 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
