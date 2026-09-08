@@ -574,7 +574,7 @@
                     "open_issues": 90,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3036,
+                    "stars": 3037,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -599,7 +599,7 @@
                     "open_issues": 14,
                     "owner": "neomacs-project",
                     "repo": "neomacs",
-                    "stars": 284,
+                    "stars": 285,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -683,7 +683,7 @@
                     "open_issues": 288,
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2082,
+                    "stars": 2084,
                     "topics": [
                       "common-lisp",
                       "emacs"
@@ -933,7 +933,7 @@
                 "open_issues": 3,
                 "owner": "atgreen",
                 "repo": "cl-tuition",
-                "stars": 147,
+                "stars": 148,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1574,7 +1574,7 @@
                     "open_issues": 145,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11015,
+                    "stars": 11017,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2126,7 +2126,7 @@
                 "open_issues": 90,
                 "owner": "stumpwm",
                 "repo": "stumpwm",
-                "stars": 2024,
+                "stars": 2025,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2287,7 +2287,7 @@
             "open_issues": 7,
             "owner": "azzamsa",
             "repo": "awesome-lisp-companies",
-            "stars": 649,
+            "stars": 650,
             "topics": [
               "awesome-list",
               "lisp"
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:12:09.920Z",
+    "last_updated": "2026-09-08T01:18:10.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",

@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,687 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,997 | 🐛 106 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -157,10 +157,10 @@ Terminal applications:
 
 #### Editors
 
-* [Lem](https://github.com/cxxxr/lem) ⭐ 3,036 | 🐛 90 | 🌐 Common Lisp | 📅 2026-09-03 - Common Lisp editor/IDE with high expansibility. [MIT].
+* [Lem](https://github.com/cxxxr/lem) ⭐ 3,037 | 🐛 90 | 🌐 Common Lisp | 📅 2026-09-03 - Common Lisp editor/IDE with high expansibility. [MIT].
   * works out of the box for many languages. Has a Language Server Protocol (LSP) client.
   * Git interface
-* [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 284 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
+* [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 285 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
 
 ![](https://github.com/neomacs-project/neomacs/raw/master/matrix.png "Neomacs")
 
@@ -172,7 +172,7 @@ and also:
 
 Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
-* [SLIME](https://github.com/slime/slime) ⭐ 2,082 | 🐛 288 | 🌐 Common Lisp | 📅 2026-09-04 - The Superior Lisp Interaction Mode for Emacs.
+* [SLIME](https://github.com/slime/slime) ⭐ 2,084 | 🐛 288 | 🌐 Common Lisp | 📅 2026-09-04 - The Superior Lisp Interaction Mode for Emacs.
 * [Sly](https://github.com/joaotavora/sly) ⭐ 1,435 | 🐛 190 | 🌐 Common Lisp | 📅 2026-08-01 - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 Third-party:
@@ -218,7 +218,7 @@ For inspiration:
 
 See also:
 
-* cl-tuition library's [file manager example](https://github.com/atgreen/cl-tuition/tree/master?tab=readme-ov-file#gallery) ⭐ 147 | 🐛 3 | 🌐 Common Lisp | 📅 2026-08-09.
+* cl-tuition library's [file manager example](https://github.com/atgreen/cl-tuition/tree/master?tab=readme-ov-file#gallery) ⭐ 148 | 🐛 3 | 🌐 Common Lisp | 📅 2026-08-09.
 * [Lem's directory-mode](https://lem-project.github.io/modes/directory/).
 
 ![The Lem editor's directory mode](https://github-production-user-asset-6210df.s3.amazonaws.com/13656378/239887331-8c790229-1f7c-4581-b093-9c56d4d85420.png "Lem's directory mode")
@@ -322,7 +322,7 @@ Terminal applications:
 
 #### Browser
 
-* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,015 | 🐛 145 | 🌐 Common Lisp | 📅 2026-02-26 - The fastest productivity web-browser.
+* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,017 | 🐛 145 | 🌐 Common Lisp | 📅 2026-02-26 - The fastest productivity web-browser.
 
 Deprecated:
 
@@ -387,7 +387,7 @@ See also:
 
 ### Window Manager
 
-* [Stumpwm](https://github.com/stumpwm/stumpwm) ⭐ 2,024 | 🐛 90 | 🌐 Common Lisp | 📅 2026-08-29 - The Stump Window Manager.
+* [Stumpwm](https://github.com/stumpwm/stumpwm) ⭐ 2,025 | 🐛 90 | 🌐 Common Lisp | 📅 2026-08-29 - The Stump Window Manager.
 * [Paulownia](https://github.com/stumpwm/paulownia) ⚠️ Archived - A modern re-write of stumpwm. [GPL2].
 
 ### Other
@@ -423,7 +423,7 @@ See also:
 ## Other Lists
 
 * [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,978 | 🐛 47 | 🌐 Makefile | 📅 2026-09-01
-* [Awesome Lisp Company](https://github.com/azzamsa/awesome-lisp-companies) ⭐ 649 | 🐛 7 | 📅 2026-06-12
+* [Awesome Lisp Company](https://github.com/azzamsa/awesome-lisp-companies) ⭐ 650 | 🐛 7 | 📅 2026-06-12
 * [Common Lisp games](https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp) ⭐ 257 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
   * [Lisp Game Jams](https://github.com/lispgames/lispgames.github.io/wiki/Lisp-Game-Jams) ⭐ 257 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
 * [Allegro Common Lisp Success Stories ](https://franz.com/success/) - by Franc Inc
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
