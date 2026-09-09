@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
-                "stars": 418,
+                "stars": 419,
                 "topics": [
                   "computer-aided-composition",
                   "music",
@@ -256,7 +256,7 @@
                     "open_issues": 31,
                     "owner": "coleslaw-org",
                     "repo": "coleslaw",
-                    "stars": 584,
+                    "stars": 583,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -511,7 +511,7 @@
                     "open_issues": 28,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6520,
+                    "stars": 6521,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -570,11 +570,11 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T12:06:54Z",
-                    "open_issues": 90,
+                    "last_commit": "2026-09-08T14:36:07Z",
+                    "open_issues": 89,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3037,
+                    "stars": 3038,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -620,7 +620,7 @@
                     "open_issues": 8,
                     "owner": "robert-strandh",
                     "repo": "Second-Climacs",
-                    "stars": 294,
+                    "stars": 293,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -679,11 +679,11 @@
                     "id": 15344025,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-09-04T03:21:03Z",
-                    "open_issues": 288,
+                    "last_commit": "2026-09-08T18:28:46Z",
+                    "open_issues": 287,
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2084,
+                    "stars": 2083,
                     "topics": [
                       "common-lisp",
                       "emacs"
@@ -1314,7 +1314,7 @@
                     "open_issues": 39,
                     "owner": "vydd",
                     "repo": "sketch",
-                    "stars": 1498,
+                    "stars": 1497,
                     "topics": [
                       "2d",
                       "art",
@@ -1455,7 +1455,7 @@
                     "open_issues": 0,
                     "owner": "screenshotbot",
                     "repo": "pixel-diff",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1574,7 +1574,7 @@
                     "open_issues": 145,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11017,
+                    "stars": 11016,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1607,7 +1607,7 @@
                     "open_issues": 21,
                     "owner": "AeroNotix",
                     "repo": "lispkit",
-                    "stars": 243,
+                    "stars": 242,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2126,7 +2126,7 @@
                 "open_issues": 90,
                 "owner": "stumpwm",
                 "repo": "stumpwm",
-                "stars": 2025,
+                "stars": 2024,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2147,7 +2147,7 @@
                 "open_issues": 0,
                 "owner": "stumpwm",
                 "repo": "paulownia",
-                "stars": 89,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2259,7 +2259,7 @@
             "open_issues": 47,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2978,
+            "stars": 2977,
             "topics": [
               "awesome",
               "common-lisp",
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:18:10.976Z",
+    "last_updated": "2026-09-09T01:23:07.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
