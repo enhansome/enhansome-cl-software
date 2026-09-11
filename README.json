@@ -18,7 +18,7 @@
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-09T17:18:22Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
                 "stars": 419,
@@ -511,7 +511,7 @@
                     "open_issues": 28,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6521,
+                    "stars": 6524,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -570,11 +570,11 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-09-08T14:36:07Z",
-                    "open_issues": 90,
+                    "last_commit": "2026-09-10T11:30:21Z",
+                    "open_issues": 91,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3038,
+                    "stars": 3039,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -679,7 +679,7 @@
                     "id": 15344025,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-09-09T02:50:38Z",
+                    "last_commit": "2026-09-11T00:53:20Z",
                     "open_issues": 287,
                     "owner": "slime",
                     "repo": "slime",
@@ -1574,7 +1574,7 @@
                     "open_issues": 145,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11016,
+                    "stars": 11019,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T01:18:31.684Z",
+    "last_updated": "2026-09-11T01:19:56.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
