@@ -511,7 +511,7 @@
                     "open_issues": 28,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6524,
+                    "stars": 6525,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -570,8 +570,8 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T11:30:21Z",
-                    "open_issues": 91,
+                    "last_commit": "2026-09-11T11:47:07Z",
+                    "open_issues": 94,
                     "owner": "lem-project",
                     "repo": "lem",
                     "stars": 3039,
@@ -1574,7 +1574,7 @@
                     "open_issues": 145,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11019,
+                    "stars": 11020,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T01:19:56.958Z",
+    "last_updated": "2026-09-12T01:22:20.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
