@@ -17,7 +17,7 @@
                 "id": 148596909,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T17:18:22Z",
+                "last_commit": "2026-09-12T15:04:32Z",
                 "open_issues": 7,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
@@ -511,7 +511,7 @@
                     "open_issues": 28,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6525,
+                    "stars": 6524,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -571,7 +571,7 @@
                     "language": "Common Lisp",
                     "license": "MIT",
                     "last_commit": "2026-09-11T11:47:07Z",
-                    "open_issues": 94,
+                    "open_issues": 96,
                     "owner": "lem-project",
                     "repo": "lem",
                     "stars": 3039,
@@ -912,7 +912,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3895,
+                "stars": 3896,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -929,7 +929,7 @@
                 "id": 1073370914,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-08-09T12:35:07Z",
+                "last_commit": "2026-09-12T20:03:16Z",
                 "open_issues": 3,
                 "owner": "atgreen",
                 "repo": "cl-tuition",
@@ -1735,7 +1735,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3895,
+                "stars": 3896,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3895,
+                "stars": 3896,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2126,7 +2126,7 @@
                 "open_issues": 90,
                 "owner": "stumpwm",
                 "repo": "stumpwm",
-                "stars": 2024,
+                "stars": 2025,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2255,11 +2255,11 @@
             "id": 28573641,
             "language": "Makefile",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T10:09:27Z",
+            "last_commit": "2026-09-12T10:39:09Z",
             "open_issues": 47,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2977,
+            "stars": 2978,
             "topics": [
               "awesome",
               "common-lisp",
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:22:20.206Z",
+    "last_updated": "2026-09-13T01:17:45.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",

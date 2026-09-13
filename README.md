@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,167 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,472 | 🐛 106 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -72,7 +72,7 @@ See also:
 
 ### Audio
 
-* ⭐ [OpenMusic](https://github.com/openmusic-project/openmusic/) ⭐ 419 | 🐛 7 | 🌐 Common Lisp | 📅 2026-09-09 visual programming / computer-aided composition environment. \[GPL3]\[2].
+* ⭐ [OpenMusic](https://github.com/openmusic-project/openmusic/) ⭐ 419 | 🐛 7 | 🌐 Common Lisp | 📅 2026-09-12 visual programming / computer-aided composition environment. \[GPL3]\[2].
   * developped at [IRCAM](https://www.stms-lab.fr/team/representations-musicales/), France. The base of other research projects and software, such as [MusiqueLab2](https://www.stms-lab.fr/shop/product/musique-lab-2/), distributed by France's ministry of education to all music teachers.
 * ⭐ [OM7](https://github.com/openmusic-project/om7) ⭐ 176 | 🐛 31 | 🌐 Common Lisp | 📅 2022-09-14 - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. \[GPL3]\[2].
 * [Incudine](https://github.com/titola/incudine) ⭐ 60 | 🐛 1 | 🌐 Common Lisp | 📅 2026-09-03 -  Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly.
@@ -151,13 +151,13 @@ Terminal applications:
 
 #### Databases
 
-* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,525 | 🐛 28 | 🌐 Common Lisp | 📅 2026-07-24 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
+* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,524 | 🐛 28 | 🌐 Common Lisp | 📅 2026-07-24 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
 * ⭐ [Pgchart](https://github.com/dimitri/pgcharts) ⭐ 402 | 🐛 13 | 🌐 Common Lisp | 📅 2020-06-01 - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. \[No License Specified]
 * ⭐ [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
 #### Editors
 
-* [Lem](https://github.com/cxxxr/lem) ⭐ 3,039 | 🐛 94 | 🌐 Common Lisp | 📅 2026-09-11 - Common Lisp editor/IDE with high expansibility. [MIT].
+* [Lem](https://github.com/cxxxr/lem) ⭐ 3,039 | 🐛 96 | 🌐 Common Lisp | 📅 2026-09-11 - Common Lisp editor/IDE with high expansibility. [MIT].
   * works out of the box for many languages. Has a Language Server Protocol (LSP) client.
   * Git interface
 * [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 285 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
@@ -179,7 +179,7 @@ Third-party:
 
 * [Judge0 IDE](https://ide.judge0.com/?lUpj) is an online editor which supports Common Lisp (SBCL). \[MIT]\[200].
 
-For more lisp development libraries, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,977 | 🐛 47 | 🌐 Makefile | 📅 2026-09-01.
+For more lisp development libraries, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,978 | 🐛 47 | 🌐 Makefile | 📅 2026-09-12.
 
 #### Others
 
@@ -214,11 +214,11 @@ For inspiration:
 
 ### File Manager
 
-* [Filer](https://github.com/froggey/Mezzano) ⭐ 3,895 | 🐛 14 | 🌐 Common Lisp | 📅 2026-08-16 - Mezzano File Manager.
+* [Filer](https://github.com/froggey/Mezzano) ⭐ 3,896 | 🐛 14 | 🌐 Common Lisp | 📅 2026-08-16 - Mezzano File Manager.
 
 See also:
 
-* cl-tuition library's [file manager example](https://github.com/atgreen/cl-tuition/tree/master?tab=readme-ov-file#gallery) ⭐ 148 | 🐛 3 | 🌐 Common Lisp | 📅 2026-08-09.
+* cl-tuition library's [file manager example](https://github.com/atgreen/cl-tuition/tree/master?tab=readme-ov-file#gallery) ⭐ 148 | 🐛 3 | 🌐 Common Lisp | 📅 2026-09-12.
 * [Lem's directory-mode](https://lem-project.github.io/modes/directory/).
 
 ![The Lem editor's directory mode](https://github-production-user-asset-6210df.s3.amazonaws.com/13656378/239887331-8c790229-1f7c-4581-b093-9c56d4d85420.png "Lem's directory mode")
@@ -343,7 +343,7 @@ Deprecated:
 
 ### Operating System
 
-* [Mezzano](https://github.com/froggey/Mezzano) ⭐ 3,895 | 🐛 14 | 🌐 Common Lisp | 📅 2026-08-16 - An operating system written in Common Lisp
+* [Mezzano](https://github.com/froggey/Mezzano) ⭐ 3,896 | 🐛 14 | 🌐 Common Lisp | 📅 2026-08-16 - An operating system written in Common Lisp
 * [Yalo](https://github.com/whily/yalo) ⭐ 592 | 🐛 1 | 🌐 Common Lisp | 📅 2022-05-11 - Lisp OS running on bare metal x86-64 hardware (WIP)
 
 ### Productivity
@@ -379,7 +379,7 @@ See also:
 
 ### Video Player
 
-* [Terentino](https://github.com/froggey/Mezzano) ⭐ 3,895 | 🐛 14 | 🌐 Common Lisp | 📅 2026-08-16 - Mezzano Video Player. [MIT].
+* [Terentino](https://github.com/froggey/Mezzano) ⭐ 3,896 | 🐛 14 | 🌐 Common Lisp | 📅 2026-08-16 - Mezzano Video Player. [MIT].
 
 ### Wiki software
 
@@ -387,7 +387,7 @@ See also:
 
 ### Window Manager
 
-* [Stumpwm](https://github.com/stumpwm/stumpwm) ⭐ 2,024 | 🐛 90 | 🌐 Common Lisp | 📅 2026-08-29 - The Stump Window Manager.
+* [Stumpwm](https://github.com/stumpwm/stumpwm) ⭐ 2,025 | 🐛 90 | 🌐 Common Lisp | 📅 2026-08-29 - The Stump Window Manager.
 * [Paulownia](https://github.com/stumpwm/paulownia) ⚠️ Archived - A modern re-write of stumpwm. [GPL2].
 
 ### Other
@@ -422,7 +422,7 @@ See also:
 
 ## Other Lists
 
-* [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,977 | 🐛 47 | 🌐 Makefile | 📅 2026-09-01
+* [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,978 | 🐛 47 | 🌐 Makefile | 📅 2026-09-12
 * [Awesome Lisp Company](https://github.com/azzamsa/awesome-lisp-companies) ⭐ 650 | 🐛 7 | 📅 2026-06-12
 * [Common Lisp games](https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp) ⭐ 257 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
   * [Lisp Game Jams](https://github.com/lispgames/lispgames.github.io/wiki/Lisp-Game-Jams) ⭐ 257 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
