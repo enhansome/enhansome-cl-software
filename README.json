@@ -17,7 +17,7 @@
                 "id": 148596909,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T15:04:32Z",
+                "last_commit": "2026-09-15T13:45:08Z",
                 "open_issues": 7,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
@@ -570,8 +570,8 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-09-14T08:46:47Z",
-                    "open_issues": 96,
+                    "last_commit": "2026-09-15T21:49:10Z",
+                    "open_issues": 91,
                     "owner": "lem-project",
                     "repo": "lem",
                     "stars": 3039,
@@ -680,7 +680,7 @@
                     "language": "Common Lisp",
                     "license": null,
                     "last_commit": "2026-09-11T00:53:20Z",
-                    "open_issues": 287,
+                    "open_issues": 288,
                     "owner": "slime",
                     "repo": "slime",
                     "stars": 2085,
@@ -704,7 +704,7 @@
                     "language": "Common Lisp",
                     "license": null,
                     "last_commit": "2026-08-01T13:17:57Z",
-                    "open_issues": 190,
+                    "open_issues": 191,
                     "owner": "joaotavora",
                     "repo": "sly",
                     "stars": 1436,
@@ -933,7 +933,7 @@
                 "open_issues": 3,
                 "owner": "atgreen",
                 "repo": "cl-tuition",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -966,7 +966,7 @@
                     "open_issues": 5,
                     "owner": "Shirakumo",
                     "repo": "trial",
-                    "stars": 1137,
+                    "stars": 1138,
                     "topics": [
                       "common-lisp",
                       "game-development",
@@ -989,7 +989,7 @@
                 "open_issues": 2,
                 "owner": "Shirakumo",
                 "repo": "kandria",
-                "stars": 696,
+                "stars": 697,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1574,7 +1574,7 @@
                     "open_issues": 145,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11021,
+                    "stars": 11023,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2259,7 +2259,7 @@
             "open_issues": 47,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2979,
+            "stars": 2978,
             "topics": [
               "awesome",
               "common-lisp",
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:43:38.297Z",
+    "last_updated": "2026-09-16T01:31:58.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
