@@ -511,7 +511,7 @@
                     "open_issues": 30,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6526,
+                    "stars": 6527,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -570,11 +570,11 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T21:49:10Z",
+                    "last_commit": "2026-09-16T10:19:38Z",
                     "open_issues": 91,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3039,
+                    "stars": 3040,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -662,7 +662,7 @@
                     "open_issues": 1,
                     "owner": "burtonsamograd",
                     "repo": "med",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -680,7 +680,7 @@
                     "language": "Common Lisp",
                     "license": null,
                     "last_commit": "2026-09-11T00:53:20Z",
-                    "open_issues": 288,
+                    "open_issues": 289,
                     "owner": "slime",
                     "repo": "slime",
                     "stars": 2085,
@@ -1574,7 +1574,7 @@
                     "open_issues": 145,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11023,
+                    "stars": 11021,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:31:58.145Z",
+    "last_updated": "2026-09-17T01:36:05.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
