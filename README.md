@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,802 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,190 | 🐛 106 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -72,7 +72,7 @@ See also:
 
 ### Audio
 
-* ⭐ [OpenMusic](https://github.com/openmusic-project/openmusic/) ⭐ 419 | 🐛 7 | 🌐 Common Lisp | 📅 2026-09-15 visual programming / computer-aided composition environment. \[GPL3]\[2].
+* ⭐ [OpenMusic](https://github.com/openmusic-project/openmusic/) ⭐ 419 | 🐛 7 | 🌐 Common Lisp | 📅 2026-09-17 visual programming / computer-aided composition environment. \[GPL3]\[2].
   * developped at [IRCAM](https://www.stms-lab.fr/team/representations-musicales/), France. The base of other research projects and software, such as [MusiqueLab2](https://www.stms-lab.fr/shop/product/musique-lab-2/), distributed by France's ministry of education to all music teachers.
 * ⭐ [OM7](https://github.com/openmusic-project/om7) ⭐ 176 | 🐛 31 | 🌐 Common Lisp | 📅 2022-09-14 - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. \[GPL3]\[2].
 * [Incudine](https://github.com/titola/incudine) ⭐ 60 | 🐛 1 | 🌐 Common Lisp | 📅 2026-09-03 -  Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly.
@@ -142,7 +142,7 @@ See also:
 ### Development Tools
 
 * [Cepl](https://github.com/cbaggers/cepl) ⭐ 886 | 🐛 99 | 🌐 Common Lisp | 📅 2026-07-09 - Code Evaluate Play Loop. [2-clause BSD].
-* [Seed](https://github.com/phantomics/seed) ⭐ 139 | 🐛 2 | 🌐 Common Lisp | 📅 2026-09-09 - Interactive software environment based on Common Lisp. [GPL3].
+* [Seed](https://github.com/phantomics/seed) ⭐ 139 | 🐛 2 | 🌐 Common Lisp | 📅 2026-09-17 - Interactive software environment based on Common Lisp. [GPL3].
 * [barf](https://github.com/ebzzry/barf) - A simple Nixpkgs and NixOS helper. [CC0].
 
 Terminal applications:
@@ -157,7 +157,7 @@ Terminal applications:
 
 #### Editors
 
-* [Lem](https://github.com/cxxxr/lem) ⭐ 3,040 | 🐛 91 | 🌐 Common Lisp | 📅 2026-09-16 - Common Lisp editor/IDE with high expansibility. [MIT].
+* [Lem](https://github.com/cxxxr/lem) ⭐ 3,040 | 🐛 92 | 🌐 Common Lisp | 📅 2026-09-17 - Common Lisp editor/IDE with high expansibility. [MIT].
   * works out of the box for many languages. Has a Language Server Protocol (LSP) client.
   * Git interface
 * [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 285 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
@@ -172,14 +172,14 @@ and also:
 
 Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
-* [SLIME](https://github.com/slime/slime) ⭐ 2,085 | 🐛 289 | 🌐 Common Lisp | 📅 2026-09-11 - The Superior Lisp Interaction Mode for Emacs.
+* [SLIME](https://github.com/slime/slime) ⭐ 2,086 | 🐛 289 | 🌐 Common Lisp | 📅 2026-09-11 - The Superior Lisp Interaction Mode for Emacs.
 * [Sly](https://github.com/joaotavora/sly) ⭐ 1,436 | 🐛 191 | 🌐 Common Lisp | 📅 2026-08-01 - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 Third-party:
 
 * [Judge0 IDE](https://ide.judge0.com/?lUpj) is an online editor which supports Common Lisp (SBCL). \[MIT]\[200].
 
-For more lisp development libraries, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,978 | 🐛 47 | 🌐 Makefile | 📅 2026-09-12.
+For more lisp development libraries, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,977 | 🐛 47 | 🌐 Makefile | 📅 2026-09-12.
 
 #### Others
 
@@ -205,7 +205,7 @@ For inspiration:
 ### Education
 
 * [Axiom](https://github.com/daly/axiom) ⭐ 395 | 🐛 16 | 🌐 PostScript | 📅 2023-08-02 -  Axiom is a free, open source computer algebra system. It is developed in its Spad language that compiles to Common Lisp.
-  * [FriCAS](https://github.com/fricas/fricas) ⭐ 395 | 🐛 37 | 📅 2026-08-31 is a fork, more maintained and easier to build. «The FriCAS algebra library is the largest and most advanced free general purpose computer algebra system».
+  * [FriCAS](https://github.com/fricas/fricas) ⭐ 395 | 🐛 37 | 📅 2026-09-18 is a fork, more maintained and easier to build. «The FriCAS algebra library is the largest and most advanced free general purpose computer algebra system».
   - FriCAS is written in its own strongly (but not statically) typed language and compiles to over half a million lines of Common Lisp code.
   - It comes with a fine print manual over 800 pages.
   - Example [blog post using FriCAS](https://www.stylewarning.com/posts/beating-bellard/)
@@ -322,7 +322,7 @@ Terminal applications:
 
 #### Browser
 
-* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,021 | 🐛 145 | 🌐 Common Lisp | 📅 2026-02-26 - The fastest productivity web-browser.
+* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,020 | 🐛 145 | 🌐 Common Lisp | 📅 2026-02-26 - The fastest productivity web-browser.
 
 Deprecated:
 
@@ -363,7 +363,7 @@ See also:
 
 ### Publishing
 
-* [etap](https://github.com/didierverna/etap) ⭐ 36 | 🐛 0 | 🌐 Common Lisp | 📅 2026-07-15 -  Experimental Typesetting Algorithms Platform.
+* [etap](https://github.com/didierverna/etap) ⭐ 37 | 🐛 0 | 🌐 Common Lisp | 📅 2026-07-15 -  Experimental Typesetting Algorithms Platform.
 * [ABStock](https://github.com/vindarel/ABStock) ⭐ 29 | 🐛 0 | 🌐 Common Lisp | 📅 2025-12-05 - allows to publish an online catalogue of products. Primarily made for books.
   * used in production since 2021.
 
@@ -422,7 +422,7 @@ See also:
 
 ## Other Lists
 
-* [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,978 | 🐛 47 | 🌐 Makefile | 📅 2026-09-12
+* [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,977 | 🐛 47 | 🌐 Makefile | 📅 2026-09-12
 * [Awesome Lisp Company](https://github.com/azzamsa/awesome-lisp-companies) ⭐ 650 | 🐛 7 | 📅 2026-06-12
 * [Common Lisp games](https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp) ⭐ 257 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
   * [Lisp Game Jams](https://github.com/lispgames/lispgames.github.io/wiki/Lisp-Game-Jams) ⭐ 257 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

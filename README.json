@@ -17,7 +17,7 @@
                 "id": 148596909,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-15T13:45:08Z",
+                "last_commit": "2026-09-17T14:58:26Z",
                 "open_issues": 7,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
@@ -460,7 +460,7 @@
                 "id": 106623865,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T06:18:23Z",
+                "last_commit": "2026-09-17T23:12:24Z",
                 "open_issues": 2,
                 "owner": "phantomics",
                 "repo": "seed",
@@ -570,8 +570,8 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-09-16T10:19:38Z",
-                    "open_issues": 91,
+                    "last_commit": "2026-09-17T12:03:18Z",
+                    "open_issues": 92,
                     "owner": "lem-project",
                     "repo": "lem",
                     "stars": 3040,
@@ -683,7 +683,7 @@
                     "open_issues": 289,
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2085,
+                    "stars": 2086,
                     "topics": [
                       "common-lisp",
                       "emacs"
@@ -823,7 +823,7 @@
                     "id": 19549841,
                     "language": null,
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-08-31T22:23:06Z",
+                    "last_commit": "2026-09-18T00:53:04Z",
                     "open_issues": 37,
                     "owner": "fricas",
                     "repo": "fricas",
@@ -1574,7 +1574,7 @@
                     "open_issues": 145,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11021,
+                    "stars": 11020,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1905,7 +1905,7 @@
                 "open_issues": 0,
                 "owner": "didierverna",
                 "repo": "etap",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2259,7 +2259,7 @@
             "open_issues": 47,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2978,
+            "stars": 2977,
             "topics": [
               "awesome",
               "common-lisp",
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T01:36:05.622Z",
+    "last_updated": "2026-09-18T01:22:50.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
