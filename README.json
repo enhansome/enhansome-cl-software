@@ -17,7 +17,7 @@
                 "id": 148596909,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T14:58:26Z",
+                "last_commit": "2026-09-19T17:04:57Z",
                 "open_issues": 7,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
@@ -115,7 +115,7 @@
                 "open_issues": 1,
                 "owner": "nlamirault",
                 "repo": "ernestine",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -546,7 +546,7 @@
                     "open_issues": 13,
                     "owner": "dimitri",
                     "repo": "pgcharts",
-                    "stars": 402,
+                    "stars": 401,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -571,10 +571,10 @@
                     "language": "Common Lisp",
                     "license": "MIT",
                     "last_commit": "2026-09-18T05:03:15Z",
-                    "open_issues": 92,
+                    "open_issues": 94,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3040,
+                    "stars": 3041,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -874,7 +874,7 @@
                 "open_issues": 0,
                 "owner": "susam",
                 "repo": "mathb",
-                "stars": 372,
+                "stars": 371,
                 "topics": [
                   "commonlisp",
                   "javascript",
@@ -1574,7 +1574,7 @@
                     "open_issues": 145,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11020,
+                    "stars": 11019,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:24:05.081Z",
+    "last_updated": "2026-09-20T01:23:46.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
