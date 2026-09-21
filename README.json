@@ -17,7 +17,7 @@
                 "id": 148596909,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T17:04:57Z",
+                "last_commit": "2026-09-20T07:32:48Z",
                 "open_issues": 7,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
@@ -511,7 +511,7 @@
                     "open_issues": 30,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6530,
+                    "stars": 6532,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -570,11 +570,11 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T05:03:15Z",
-                    "open_issues": 94,
+                    "last_commit": "2026-09-20T15:52:36Z",
+                    "open_issues": 95,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3041,
+                    "stars": 3043,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -1574,7 +1574,7 @@
                     "open_issues": 145,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11019,
+                    "stars": 11020,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T01:23:46.398Z",
+    "last_updated": "2026-09-21T01:21:28.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
