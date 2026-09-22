@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,267 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,667 | 🐛 106 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -13,7 +13,7 @@
 
 This is a list of awesome [application software](https://en.wikipedia.org/wiki/Application_software) built with Common Lisp.
 
-We want to keep the 'master' list curated. If you want to uncurated list, see [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list) ⭐ 399 | 🐛 2 | 📅 2026-06-20.
+We want to keep the 'master' list curated. If you want to uncurated list, see [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list) ⭐ 401 | 🐛 2 | 📅 2026-06-20.
 
 See also:
 
@@ -157,7 +157,7 @@ Terminal applications:
 
 #### Editors
 
-* [Lem](https://github.com/cxxxr/lem) ⭐ 3,043 | 🐛 95 | 🌐 Common Lisp | 📅 2026-09-20 - Common Lisp editor/IDE with high expansibility. [MIT].
+* [Lem](https://github.com/cxxxr/lem) ⭐ 3,044 | 🐛 97 | 🌐 Common Lisp | 📅 2026-09-21 - Common Lisp editor/IDE with high expansibility. [MIT].
   * works out of the box for many languages. Has a Language Server Protocol (LSP) client.
   * Git interface
 * [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 285 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
@@ -172,14 +172,14 @@ and also:
 
 Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
-* [SLIME](https://github.com/slime/slime) ⭐ 2,086 | 🐛 289 | 🌐 Common Lisp | 📅 2026-09-11 - The Superior Lisp Interaction Mode for Emacs.
+* [SLIME](https://github.com/slime/slime) ⭐ 2,088 | 🐛 289 | 🌐 Common Lisp | 📅 2026-09-11 - The Superior Lisp Interaction Mode for Emacs.
 * [Sly](https://github.com/joaotavora/sly) ⭐ 1,436 | 🐛 192 | 🌐 Common Lisp | 📅 2026-08-01 - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 Third-party:
 
 * [Judge0 IDE](https://ide.judge0.com/?lUpj) is an online editor which supports Common Lisp (SBCL). \[MIT]\[200].
 
-For more lisp development libraries, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,977 | 🐛 47 | 🌐 Makefile | 📅 2026-09-12.
+For more lisp development libraries, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,979 | 🐛 47 | 🌐 Makefile | 📅 2026-09-12.
 
 #### Others
 
@@ -322,7 +322,7 @@ Terminal applications:
 
 #### Browser
 
-* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,020 | 🐛 145 | 🌐 Common Lisp | 📅 2026-02-26 - The fastest productivity web-browser.
+* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,022 | 🐛 145 | 🌐 Common Lisp | 📅 2026-02-26 - The fastest productivity web-browser.
 
 Deprecated:
 
@@ -400,7 +400,7 @@ See also:
 
 #### Historical Purposes
 
-* Endless list. See [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list) ⭐ 399 | 🐛 2 | 📅 2026-06-20.
+* Endless list. See [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list) ⭐ 401 | 🐛 2 | 📅 2026-06-20.
 * [DART](https://en.wikipedia.org/wiki/Dynamic_Analysis_and_Replanning_Tool) - Application to optimize and schedule the transportation of supplies or personnel and solve other logistical problems.
 * [ICAD](https://en.wikipedia.org/wiki/ICAD_\(software\)) - A knowledge-based CAD system.
 * [Interleaf Publisher](https://en.wikipedia.org/wiki/Interleaf) - A document processor.
@@ -422,7 +422,7 @@ See also:
 
 ## Other Lists
 
-* [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,977 | 🐛 47 | 🌐 Makefile | 📅 2026-09-12
+* [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,979 | 🐛 47 | 🌐 Makefile | 📅 2026-09-12
 * [Awesome Lisp Company](https://github.com/azzamsa/awesome-lisp-companies) ⭐ 650 | 🐛 7 | 📅 2026-06-12
 * [Common Lisp games](https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp) ⭐ 257 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
   * [Lisp Game Jams](https://github.com/lispgames/lispgames.github.io/wiki/Lisp-Game-Jams) ⭐ 257 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
