@@ -511,7 +511,7 @@
                     "open_issues": 30,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6532,
+                    "stars": 6535,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -683,7 +683,7 @@
                     "open_issues": 289,
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2088,
+                    "stars": 2089,
                     "topics": [
                       "common-lisp",
                       "emacs"
@@ -707,7 +707,7 @@
                     "open_issues": 192,
                     "owner": "joaotavora",
                     "repo": "sly",
-                    "stars": 1436,
+                    "stars": 1437,
                     "topics": [
                       "common-lisp",
                       "emacs",
@@ -1571,7 +1571,7 @@
                     "language": "Common Lisp",
                     "license": null,
                     "last_commit": "2026-02-26T14:36:03Z",
-                    "open_issues": 145,
+                    "open_issues": 146,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
                     "stars": 11022,
@@ -2219,7 +2219,7 @@
                     "open_issues": 2,
                     "owner": "azzamsa",
                     "repo": "awesome-cl-software",
-                    "stars": 401,
+                    "stars": 400,
                     "topics": [
                       "awesome-list",
                       "common-lisp"
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:43:27.622Z",
+    "last_updated": "2026-09-23T01:38:41.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
@@ -2355,7 +2355,7 @@
       "open_issues": 2,
       "owner": "azzamsa",
       "repo": "awesome-cl-software",
-      "stars": 401,
+      "stars": 400,
       "topics": [
         "awesome-list",
         "common-lisp"
