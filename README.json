@@ -570,11 +570,11 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-09-21T18:01:20Z",
-                    "open_issues": 97,
+                    "last_commit": "2026-09-23T16:39:26Z",
+                    "open_issues": 91,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3044,
+                    "stars": 3045,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -680,10 +680,10 @@
                     "language": "Common Lisp",
                     "license": null,
                     "last_commit": "2026-09-11T00:53:20Z",
-                    "open_issues": 289,
+                    "open_issues": 290,
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2089,
+                    "stars": 2090,
                     "topics": [
                       "common-lisp",
                       "emacs"
@@ -823,7 +823,7 @@
                     "id": 19549841,
                     "language": null,
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-18T00:53:04Z",
+                    "last_commit": "2026-09-23T23:43:37Z",
                     "open_issues": 37,
                     "owner": "fricas",
                     "repo": "fricas",
@@ -1314,7 +1314,7 @@
                     "open_issues": 39,
                     "owner": "vydd",
                     "repo": "sketch",
-                    "stars": 1497,
+                    "stars": 1498,
                     "topics": [
                       "2d",
                       "art",
@@ -1574,7 +1574,7 @@
                     "open_issues": 146,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11022,
+                    "stars": 11025,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:38:41.441Z",
+    "last_updated": "2026-09-24T01:35:24.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
