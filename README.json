@@ -511,7 +511,7 @@
                     "open_issues": 30,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6536,
+                    "stars": 6539,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -679,8 +679,8 @@
                     "id": 15344025,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-09-11T00:53:20Z",
-                    "open_issues": 291,
+                    "last_commit": "2026-09-25T15:42:43Z",
+                    "open_issues": 289,
                     "owner": "slime",
                     "repo": "slime",
                     "stars": 2090,
@@ -827,7 +827,7 @@
                     "open_issues": 37,
                     "owner": "fricas",
                     "repo": "fricas",
-                    "stars": 395,
+                    "stars": 396,
                     "topics": [
                       "computer-algebra",
                       "computer-algebra-system",
@@ -908,11 +908,11 @@
                 "id": 29929783,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-08-16T12:25:41Z",
+                "last_commit": "2026-09-25T18:38:46Z",
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3899,
+                "stars": 3900,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1574,7 +1574,7 @@
                     "open_issues": 146,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11026,
+                    "stars": 11025,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1731,11 +1731,11 @@
                 "id": 29929783,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-08-16T12:25:41Z",
+                "last_commit": "2026-09-25T18:38:46Z",
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3899,
+                "stars": 3900,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2066,11 +2066,11 @@
                 "id": 29929783,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-08-16T12:25:41Z",
+                "last_commit": "2026-09-25T18:38:46Z",
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3899,
+                "stars": 3900,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T01:43:43.733Z",
+    "last_updated": "2026-09-26T01:48:08.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
