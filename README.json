@@ -920,7 +920,7 @@
             {
               "node_type": "item",
               "title": "cl-tuition library's file manager example",
-              "description": ".",
+              "description": "atgreen/cl-tuition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2200,37 +2200,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
-            },
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Endless list. See complete list branch",
-                  "description": ".",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "List of awesome application software built with Common Lisp",
-                    "homepage": null,
-                    "id": 107772913,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2026-06-20T08:01:36Z",
-                    "open_issues": 2,
-                    "owner": "azzamsa",
-                    "repo": "awesome-cl-software",
-                    "stars": 401,
-                    "topics": [
-                      "awesome-list",
-                      "common-lisp"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T07:00:34.837Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Historical Purposes"
             }
           ],
           "description": null,
@@ -2246,7 +2215,7 @@
         {
           "node_type": "item",
           "title": "awesome-cl",
-          "description": null,
+          "description": "CodyReichert/awesome-cl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2274,7 +2243,7 @@
         {
           "node_type": "item",
           "title": "Awesome Lisp Company",
-          "description": null,
+          "description": "azzamsa/awesome-lisp-companies",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2298,12 +2267,12 @@
         {
           "node_type": "item",
           "title": "Common Lisp games",
-          "description": null,
+          "description": "lispgames/lispgames.github.io",
           "children": [
             {
               "node_type": "item",
               "title": "Lisp Game Jams",
-              "description": null,
+              "description": "lispgames/lispgames.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2343,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:13:11.287Z",
+    "last_updated": "2026-10-03T04:37:11.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",

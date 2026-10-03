@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,759 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -13,7 +13,7 @@
 
 This is a list of awesome [application software](https://en.wikipedia.org/wiki/Application_software) built with Common Lisp.
 
-We want to keep the 'master' list curated. If you want to uncurated list, see [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list) ⭐ 401 | 🐛 2 | 📅 2026-06-20.
+We want to keep the 'master' list curated. If you want to uncurated list, see [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list).
 
 See also:
 
@@ -400,7 +400,6 @@ See also:
 
 #### Historical Purposes
 
-* Endless list. See [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list) ⭐ 401 | 🐛 2 | 📅 2026-06-20.
 * [DART](https://en.wikipedia.org/wiki/Dynamic_Analysis_and_Replanning_Tool) - Application to optimize and schedule the transportation of supplies or personnel and solve other logistical problems.
 * [ICAD](https://en.wikipedia.org/wiki/ICAD_\(software\)) - A knowledge-based CAD system.
 * [Interleaf Publisher](https://en.wikipedia.org/wiki/Interleaf) - A document processor.
@@ -410,6 +409,7 @@ See also:
 * [Sk8](https://en.wikipedia.org/wiki/SK8) - A multimedia authoring environment.
 * [Action!][Expat] - Expertelligence' Interface Designer.
 * [PRISM](http://www.radonc.washington.edu/medinfo/prism/) - The Prism project is a long term project to build software tools for radiation therapy planning, including artificial intelligence tools as well as manual simulation systems.
+* Endless list. See [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list).
 
 ## Mobile Applications
 
