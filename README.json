@@ -443,7 +443,7 @@
                 "open_issues": 99,
                 "owner": "cbaggers",
                 "repo": "cepl",
-                "stars": 889,
+                "stars": 890,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -570,11 +570,11 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T07:16:37Z",
-                    "open_issues": 92,
+                    "last_commit": "2026-10-03T01:45:57Z",
+                    "open_issues": 95,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3049,
+                    "stars": 3051,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -912,7 +912,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3904,
+                "stars": 3905,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1574,7 +1574,7 @@
                     "open_issues": 147,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11026,
+                    "stars": 11027,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1735,7 +1735,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3904,
+                "stars": 3905,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3904,
+                "stars": 3905,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2126,7 +2126,7 @@
                 "open_issues": 85,
                 "owner": "stumpwm",
                 "repo": "stumpwm",
-                "stars": 2030,
+                "stars": 2031,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2343,7 +2343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:26:59.452Z",
+    "last_updated": "2026-10-03T02:13:11.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
