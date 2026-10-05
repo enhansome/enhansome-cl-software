@@ -256,7 +256,7 @@
                     "open_issues": 31,
                     "owner": "coleslaw-org",
                     "repo": "coleslaw",
-                    "stars": 583,
+                    "stars": 584,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -443,7 +443,7 @@
                 "open_issues": 99,
                 "owner": "cbaggers",
                 "repo": "cepl",
-                "stars": 890,
+                "stars": 891,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -571,7 +571,7 @@
                     "language": "Common Lisp",
                     "license": "MIT",
                     "last_commit": "2026-10-03T16:20:02Z",
-                    "open_issues": 97,
+                    "open_issues": 99,
                     "owner": "lem-project",
                     "repo": "lem",
                     "stars": 3051,
@@ -912,7 +912,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3906,
+                "stars": 3907,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1735,7 +1735,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3906,
+                "stars": 3907,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3906,
+                "stars": 3907,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:48:19.072Z",
+    "last_updated": "2026-10-05T02:15:33.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
