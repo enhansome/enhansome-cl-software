@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,216 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,368 | 🐛 106 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -173,7 +173,7 @@ and also:
 Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
 * [SLIME](https://github.com/slime/slime) ⭐ 2,091 | 🐛 290 | 🌐 Common Lisp | 📅 2026-10-01 - The Superior Lisp Interaction Mode for Emacs.
-* [Sly](https://github.com/joaotavora/sly) ⭐ 1,438 | 🐛 192 | 🌐 Common Lisp | 📅 2026-08-01 - Sylvester the Cat's Common Lisp IDE (slime's fork)
+* [Sly](https://github.com/joaotavora/sly) ⭐ 1,438 | 🐛 192 | 🌐 Common Lisp | 📅 2026-10-06 - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 Third-party:
 
