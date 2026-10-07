@@ -570,8 +570,8 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T14:03:37Z",
-                    "open_issues": 99,
+                    "last_commit": "2026-10-06T11:50:03Z",
+                    "open_issues": 90,
                     "owner": "lem-project",
                     "repo": "lem",
                     "stars": 3052,
@@ -912,7 +912,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3907,
+                "stars": 3908,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1574,7 +1574,7 @@
                     "open_issues": 147,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11026,
+                    "stars": 11025,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1735,7 +1735,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3907,
+                "stars": 3908,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1813,7 +1813,7 @@
                 "open_issues": 3,
                 "owner": "projectured",
                 "repo": "projectured-lisp",
-                "stars": 143,
+                "stars": 144,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3907,
+                "stars": 3908,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2224,11 +2224,11 @@
             "id": 28573641,
             "language": "Makefile",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T12:12:51Z",
+            "last_commit": "2026-10-06T11:20:47Z",
             "open_issues": 46,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2983,
+            "stars": 2984,
             "topics": [
               "awesome",
               "common-lisp",
@@ -2285,7 +2285,7 @@
                 "open_issues": 2,
                 "owner": "lispgames",
                 "repo": "lispgames.github.io",
-                "stars": 257,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2302,7 +2302,7 @@
             "open_issues": 2,
             "owner": "lispgames",
             "repo": "lispgames.github.io",
-            "stars": 257,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:54:00.250Z",
+    "last_updated": "2026-10-07T02:36:04.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
