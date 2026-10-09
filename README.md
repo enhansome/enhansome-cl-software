@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,140 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,380 | 🐛 106 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -151,7 +151,7 @@ Terminal applications:
 
 #### Databases
 
-* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,542 | 🐛 31 | 🌐 Common Lisp | 📅 2026-09-14 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
+* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,543 | 🐛 32 | 🌐 Common Lisp | 📅 2026-09-14 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
 * ⭐ [Pgchart](https://github.com/dimitri/pgcharts) ⭐ 401 | 🐛 13 | 🌐 Common Lisp | 📅 2020-06-01 - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. \[No License Specified]
 * ⭐ [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
@@ -179,7 +179,7 @@ Third-party:
 
 * [Judge0 IDE](https://ide.judge0.com/?lUpj) is an online editor which supports Common Lisp (SBCL). \[MIT]\[200].
 
-For more lisp development libraries, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,985 | 🐛 46 | 🌐 Makefile | 📅 2026-10-06.
+For more lisp development libraries, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,986 | 🐛 46 | 🌐 Makefile | 📅 2026-10-06.
 
 #### Others
 
@@ -214,7 +214,7 @@ For inspiration:
 
 ### File Manager
 
-* [Filer](https://github.com/froggey/Mezzano) ⭐ 3,909 | 🐛 14 | 🌐 Common Lisp | 📅 2026-09-25 - Mezzano File Manager.
+* [Filer](https://github.com/froggey/Mezzano) ⭐ 3,910 | 🐛 14 | 🌐 Common Lisp | 📅 2026-09-25 - Mezzano File Manager.
 
 See also:
 
@@ -343,12 +343,12 @@ Deprecated:
 
 ### Operating System
 
-* [Mezzano](https://github.com/froggey/Mezzano) ⭐ 3,909 | 🐛 14 | 🌐 Common Lisp | 📅 2026-09-25 - An operating system written in Common Lisp
+* [Mezzano](https://github.com/froggey/Mezzano) ⭐ 3,910 | 🐛 14 | 🌐 Common Lisp | 📅 2026-09-25 - An operating system written in Common Lisp
 * [Yalo](https://github.com/whily/yalo) ⭐ 592 | 🐛 1 | 🌐 Common Lisp | 📅 2022-05-11 - Lisp OS running on bare metal x86-64 hardware (WIP)
 
 ### Productivity
 
-* [Ichiran](https://github.com/tshatrov/ichiran) ⭐ 409 | 🐛 13 | 🌐 Common Lisp | 📅 2026-07-04 - Linguistic tools for texts in Japanese language. [MIT].
+* [Ichiran](https://github.com/tshatrov/ichiran) ⭐ 410 | 🐛 13 | 🌐 Common Lisp | 📅 2026-07-04 - Linguistic tools for texts in Japanese language. [MIT].
 * [Projectured](https://github.com/projectured/projectured) ⚠️ Archived -  ProjecturEd is a generic purpose projectional editor. \[No License Specified].
 * [Deftask](https://github.com/deftask/deftask-cli) ⭐ 18 | 🐛 1 | 🌐 Common Lisp | 📅 2019-01-30 - Painless task management for teams. \[Partly Open Source].
 * [Grammarly](https://www.grammarly.com/) - Grammar checking. [Proprietary].
@@ -379,7 +379,7 @@ See also:
 
 ### Video Player
 
-* [Terentino](https://github.com/froggey/Mezzano) ⭐ 3,909 | 🐛 14 | 🌐 Common Lisp | 📅 2026-09-25 - Mezzano Video Player. [MIT].
+* [Terentino](https://github.com/froggey/Mezzano) ⭐ 3,910 | 🐛 14 | 🌐 Common Lisp | 📅 2026-09-25 - Mezzano Video Player. [MIT].
 
 ### Wiki software
 
@@ -422,7 +422,7 @@ See also:
 
 ## Other Lists
 
-* [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,985 | 🐛 46 | 🌐 Makefile | 📅 2026-10-06
+* [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,986 | 🐛 46 | 🌐 Makefile | 📅 2026-10-06
 * [Awesome Lisp Company](https://github.com/azzamsa/awesome-lisp-companies) ⭐ 652 | 🐛 7 | 📅 2026-06-12
 * [Common Lisp games](https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp) ⭐ 256 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
   * [Lisp Game Jams](https://github.com/lispgames/lispgames.github.io/wiki/Lisp-Game-Jams) ⭐ 256 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

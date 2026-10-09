@@ -508,10 +508,10 @@
                     "language": "Common Lisp",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-14T06:23:12Z",
-                    "open_issues": 31,
+                    "open_issues": 32,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6542,
+                    "stars": 6543,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -912,7 +912,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3909,
+                "stars": 3910,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1735,7 +1735,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3909,
+                "stars": 3910,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1784,7 +1784,7 @@
                 "open_issues": 13,
                 "owner": "tshatrov",
                 "repo": "ichiran",
-                "stars": 409,
+                "stars": 410,
                 "topics": [
                   "common-lisp",
                   "dictionary",
@@ -2070,7 +2070,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3909,
+                "stars": 3910,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2228,7 +2228,7 @@
             "open_issues": 46,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2985,
+            "stars": 2986,
             "topics": [
               "awesome",
               "common-lisp",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:49:41.578Z",
+    "last_updated": "2026-10-09T03:01:08.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
@@ -2324,7 +2324,7 @@
       "open_issues": 2,
       "owner": "azzamsa",
       "repo": "awesome-cl-software",
-      "stars": 401,
+      "stars": 402,
       "topics": [
         "awesome-list",
         "common-lisp"
