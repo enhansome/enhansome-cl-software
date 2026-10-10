@@ -511,7 +511,7 @@
                     "open_issues": 32,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6543,
+                    "stars": 6541,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -683,7 +683,7 @@
                     "open_issues": 290,
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2091,
+                    "stars": 2092,
                     "topics": [
                       "common-lisp",
                       "emacs"
@@ -823,7 +823,7 @@
                     "id": 19549841,
                     "language": null,
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-27T12:10:23Z",
+                    "last_commit": "2026-10-09T19:47:30Z",
                     "open_issues": 38,
                     "owner": "fricas",
                     "repo": "fricas",
@@ -2228,7 +2228,7 @@
             "open_issues": 46,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2986,
+            "stars": 2987,
             "topics": [
               "awesome",
               "common-lisp",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T03:01:08.652Z",
+    "last_updated": "2026-10-10T02:33:20.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
