@@ -192,7 +192,7 @@
                 "open_issues": 2,
                 "owner": "kevinlynx",
                 "repo": "ext-blog",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -511,7 +511,7 @@
                     "open_issues": 32,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6541,
+                    "stars": 6542,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -571,7 +571,7 @@
                     "language": "Common Lisp",
                     "license": "MIT",
                     "last_commit": "2026-10-07T09:03:35Z",
-                    "open_issues": 89,
+                    "open_issues": 91,
                     "owner": "lem-project",
                     "repo": "lem",
                     "stars": 3053,
@@ -683,7 +683,7 @@
                     "open_issues": 290,
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2092,
+                    "stars": 2093,
                     "topics": [
                       "common-lisp",
                       "emacs"
@@ -823,8 +823,8 @@
                     "id": 19549841,
                     "language": null,
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-09T19:47:30Z",
-                    "open_issues": 38,
+                    "last_commit": "2026-10-10T12:34:17Z",
+                    "open_issues": 37,
                     "owner": "fricas",
                     "repo": "fricas",
                     "stars": 397,
@@ -874,7 +874,7 @@
                 "open_issues": 0,
                 "owner": "susam",
                 "repo": "mathb",
-                "stars": 370,
+                "stars": 369,
                 "topics": [
                   "commonlisp",
                   "javascript",
@@ -912,7 +912,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3910,
+                "stars": 3913,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -989,7 +989,7 @@
                 "open_issues": 2,
                 "owner": "Shirakumo",
                 "repo": "kandria",
-                "stars": 696,
+                "stars": 697,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1314,7 +1314,7 @@
                     "open_issues": 39,
                     "owner": "vydd",
                     "repo": "sketch",
-                    "stars": 1497,
+                    "stars": 1498,
                     "topics": [
                       "2d",
                       "art",
@@ -1574,7 +1574,7 @@
                     "open_issues": 147,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11027,
+                    "stars": 11028,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1735,7 +1735,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3910,
+                "stars": 3913,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3910,
+                "stars": 3913,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:33:20.521Z",
+    "last_updated": "2026-10-11T02:03:19.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
