@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,271 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,734 | 🐛 105 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -113,7 +113,7 @@ Terminal applications:
 
 See also:
 
-* [Klipse](https://github.com/viebel/klipse) ⭐ 3,135 | 🐛 83 | 🌐 HTML | 📅 2024-10-01 - written in ClojureScript, allows to include run-able code snippets, including Common Lisp.
+* [Klipse](https://github.com/viebel/klipse) ⭐ 3,134 | 🐛 83 | 🌐 HTML | 📅 2024-10-01 - written in ClojureScript, allows to include run-able code snippets, including Common Lisp.
 
 #### Static Blog Generator
 
@@ -151,16 +151,16 @@ Terminal applications:
 
 #### Databases
 
-* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,542 | 🐛 32 | 🌐 Common Lisp | 📅 2026-09-14 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
+* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,544 | 🐛 32 | 🌐 Common Lisp | 📅 2026-09-14 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
 * ⭐ [Pgchart](https://github.com/dimitri/pgcharts) ⭐ 401 | 🐛 13 | 🌐 Common Lisp | 📅 2020-06-01 - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. \[No License Specified]
 * ⭐ [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
 #### Editors
 
-* [Lem](https://github.com/cxxxr/lem) ⭐ 3,053 | 🐛 91 | 🌐 Common Lisp | 📅 2026-10-07 - Common Lisp editor/IDE with high expansibility. [MIT].
+* [Lem](https://github.com/cxxxr/lem) ⭐ 3,054 | 🐛 93 | 🌐 Common Lisp | 📅 2026-10-07 - Common Lisp editor/IDE with high expansibility. [MIT].
   * works out of the box for many languages. Has a Language Server Protocol (LSP) client.
   * Git interface
-* [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 285 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
+* [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 286 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
 
 ![](https://github.com/neomacs-project/neomacs/raw/master/matrix.png "Neomacs")
 
@@ -172,7 +172,7 @@ and also:
 
 Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
-* [SLIME](https://github.com/slime/slime) ⭐ 2,093 | 🐛 290 | 🌐 Common Lisp | 📅 2026-10-01 - The Superior Lisp Interaction Mode for Emacs.
+* [SLIME](https://github.com/slime/slime) ⭐ 2,093 | 🐛 290 | 🌐 Common Lisp | 📅 2026-10-11 - The Superior Lisp Interaction Mode for Emacs.
 * [Sly](https://github.com/joaotavora/sly) ⭐ 1,438 | 🐛 192 | 🌐 Common Lisp | 📅 2026-10-06 - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 Third-party:
@@ -214,7 +214,7 @@ For inspiration:
 
 ### File Manager
 
-* [Filer](https://github.com/froggey/Mezzano) ⭐ 3,913 | 🐛 14 | 🌐 Common Lisp | 📅 2026-09-25 - Mezzano File Manager.
+* [Filer](https://github.com/froggey/Mezzano) ⭐ 3,914 | 🐛 14 | 🌐 Common Lisp | 📅 2026-10-11 - Mezzano File Manager.
 
 See also:
 
@@ -322,7 +322,7 @@ Terminal applications:
 
 #### Browser
 
-* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,028 | 🐛 147 | 🌐 Common Lisp | 📅 2026-02-26 - The fastest productivity web-browser.
+* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,031 | 🐛 147 | 🌐 Common Lisp | 📅 2026-02-26 - The fastest productivity web-browser.
 
 Deprecated:
 
@@ -343,12 +343,12 @@ Deprecated:
 
 ### Operating System
 
-* [Mezzano](https://github.com/froggey/Mezzano) ⭐ 3,913 | 🐛 14 | 🌐 Common Lisp | 📅 2026-09-25 - An operating system written in Common Lisp
-* [Yalo](https://github.com/whily/yalo) ⭐ 592 | 🐛 1 | 🌐 Common Lisp | 📅 2022-05-11 - Lisp OS running on bare metal x86-64 hardware (WIP)
+* [Mezzano](https://github.com/froggey/Mezzano) ⭐ 3,914 | 🐛 14 | 🌐 Common Lisp | 📅 2026-10-11 - An operating system written in Common Lisp
+* [Yalo](https://github.com/whily/yalo) ⭐ 593 | 🐛 1 | 🌐 Common Lisp | 📅 2022-05-11 - Lisp OS running on bare metal x86-64 hardware (WIP)
 
 ### Productivity
 
-* [Ichiran](https://github.com/tshatrov/ichiran) ⭐ 410 | 🐛 13 | 🌐 Common Lisp | 📅 2026-07-04 - Linguistic tools for texts in Japanese language. [MIT].
+* [Ichiran](https://github.com/tshatrov/ichiran) ⭐ 410 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-11 - Linguistic tools for texts in Japanese language. [MIT].
 * [Projectured](https://github.com/projectured/projectured) ⚠️ Archived -  ProjecturEd is a generic purpose projectional editor. \[No License Specified].
 * [Deftask](https://github.com/deftask/deftask-cli) ⭐ 18 | 🐛 1 | 🌐 Common Lisp | 📅 2019-01-30 - Painless task management for teams. \[Partly Open Source].
 * [Grammarly](https://www.grammarly.com/) - Grammar checking. [Proprietary].
@@ -379,7 +379,7 @@ See also:
 
 ### Video Player
 
-* [Terentino](https://github.com/froggey/Mezzano) ⭐ 3,913 | 🐛 14 | 🌐 Common Lisp | 📅 2026-09-25 - Mezzano Video Player. [MIT].
+* [Terentino](https://github.com/froggey/Mezzano) ⭐ 3,914 | 🐛 14 | 🌐 Common Lisp | 📅 2026-10-11 - Mezzano Video Player. [MIT].
 
 ### Wiki software
 
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
