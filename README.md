@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,734 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,229 | 🐛 105 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -72,7 +72,7 @@ See also:
 
 ### Audio
 
-* ⭐ [OpenMusic](https://github.com/openmusic-project/openmusic/) ⭐ 421 | 🐛 7 | 🌐 Common Lisp | 📅 2026-09-28 visual programming / computer-aided composition environment. \[GPL3]\[2].
+* ⭐ [OpenMusic](https://github.com/openmusic-project/openmusic/) ⭐ 422 | 🐛 7 | 🌐 Common Lisp | 📅 2026-09-28 visual programming / computer-aided composition environment. \[GPL3]\[2].
   * developped at [IRCAM](https://www.stms-lab.fr/team/representations-musicales/), France. The base of other research projects and software, such as [MusiqueLab2](https://www.stms-lab.fr/shop/product/musique-lab-2/), distributed by France's ministry of education to all music teachers.
 * ⭐ [OM7](https://github.com/openmusic-project/om7) ⭐ 175 | 🐛 31 | 🌐 Common Lisp | 📅 2022-09-14 - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. \[GPL3]\[2].
 * [Incudine](https://github.com/titola/incudine) ⭐ 60 | 🐛 2 | 🌐 Common Lisp | 📅 2026-09-27 -  Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly.
@@ -117,7 +117,7 @@ See also:
 
 #### Static Blog Generator
 
-* [Coleslaw](https://github.com/kingcons/coleslaw) ⭐ 584 | 🐛 31 | 🌐 Common Lisp | 📅 2024-12-12 - Flexible Lisp Blogware.
+* [Coleslaw](https://github.com/kingcons/coleslaw) ⭐ 583 | 🐛 31 | 🌐 Common Lisp | 📅 2024-12-12 - Flexible Lisp Blogware.
 * [Collards](https://collards.kingcons.io/) - A static site generator for those who love Markdown and parens.
   * markdown blog posts, custom pages, local preview with hot reloading,
   * deployment via rsync, CLI app
@@ -125,7 +125,7 @@ See also:
 
 ### Chat
 
-* [Lisp-chat](https://github.com/ryukinix/lisp-chat) ⭐ 205 | 🐛 2 | 🌐 Common Lisp | 📅 2026-09-05 - An experimental minimal chat. [MIT].
+* [Lisp-chat](https://github.com/ryukinix/lisp-chat) ⭐ 206 | 🐛 2 | 🌐 Common Lisp | 📅 2026-09-05 - An experimental minimal chat. [MIT].
 * [Collen](https://github.com/Shinmera/colleen) ⚠️ Archived - Common Lisp IRC bot with a modular framework.
 * [Lichat](https://shirakumo.github.io/maiden/clients/lichat/) - Lichat client for Maiden. [Artistic License 2.0]
 
@@ -141,7 +141,7 @@ See also:
 
 ### Development Tools
 
-* [Cepl](https://github.com/cbaggers/cepl) ⭐ 891 | 🐛 99 | 🌐 Common Lisp | 📅 2026-07-09 - Code Evaluate Play Loop. [2-clause BSD].
+* [Cepl](https://github.com/cbaggers/cepl) ⭐ 892 | 🐛 99 | 🌐 Common Lisp | 📅 2026-07-09 - Code Evaluate Play Loop. [2-clause BSD].
 * [Seed](https://github.com/phantomics/seed) ⭐ 139 | 🐛 2 | 🌐 Common Lisp | 📅 2026-09-17 - Interactive software environment based on Common Lisp. [GPL3].
 * [barf](https://github.com/ebzzry/barf) - A simple Nixpkgs and NixOS helper. [CC0].
 
@@ -151,29 +151,29 @@ Terminal applications:
 
 #### Databases
 
-* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,544 | 🐛 32 | 🌐 Common Lisp | 📅 2026-09-14 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
+* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,545 | 🐛 32 | 🌐 Common Lisp | 📅 2026-09-14 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
 * ⭐ [Pgchart](https://github.com/dimitri/pgcharts) ⭐ 401 | 🐛 13 | 🌐 Common Lisp | 📅 2020-06-01 - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. \[No License Specified]
 * ⭐ [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
 #### Editors
 
-* [Lem](https://github.com/cxxxr/lem) ⭐ 3,054 | 🐛 93 | 🌐 Common Lisp | 📅 2026-10-07 - Common Lisp editor/IDE with high expansibility. [MIT].
+* [Lem](https://github.com/cxxxr/lem) ⭐ 3,055 | 🐛 93 | 🌐 Common Lisp | 📅 2026-10-07 - Common Lisp editor/IDE with high expansibility. [MIT].
   * works out of the box for many languages. Has a Language Server Protocol (LSP) client.
   * Git interface
-* [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 286 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
+* [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 287 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
 
 ![](https://github.com/neomacs-project/neomacs/raw/master/matrix.png "Neomacs")
 
 and also:
 
 * [Second Climacs](https://github.com/robert-strandh/Second-Climacs) ⭐ 293 | 🐛 8 | 🌐 Common Lisp | 📅 2026-07-17 - Version 2 of the Climacs text editor.
-* [Hemlock](https://github.com/bluelisp/hemlock) ⭐ 49 | 🐛 8 | 🌐 Common Lisp | 📅 2018-10-30 -  Portable version of the Hemlock editor. \[No Licence Specified].
-* [Med](https://github.com/burtonsamograd/med) ⭐ 15 | 🐛 1 | 🌐 Common Lisp | 📅 2015-03-18 - Emacs-like text editor for the Mezzano operating system. [MIT].
+* [Hemlock](https://github.com/bluelisp/hemlock) ⭐ 50 | 🐛 8 | 🌐 Common Lisp | 📅 2018-10-30 -  Portable version of the Hemlock editor. \[No Licence Specified].
+* [Med](https://github.com/burtonsamograd/med) ⭐ 16 | 🐛 1 | 🌐 Common Lisp | 📅 2015-03-18 - Emacs-like text editor for the Mezzano operating system. [MIT].
 
 Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
 * [SLIME](https://github.com/slime/slime) ⭐ 2,093 | 🐛 290 | 🌐 Common Lisp | 📅 2026-10-11 - The Superior Lisp Interaction Mode for Emacs.
-* [Sly](https://github.com/joaotavora/sly) ⭐ 1,438 | 🐛 192 | 🌐 Common Lisp | 📅 2026-10-06 - Sylvester the Cat's Common Lisp IDE (slime's fork)
+* [Sly](https://github.com/joaotavora/sly) ⭐ 1,439 | 🐛 192 | 🌐 Common Lisp | 📅 2026-10-13 - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 Third-party:
 
@@ -205,20 +205,20 @@ For inspiration:
 ### Education
 
 * [Axiom](https://github.com/daly/axiom) ⭐ 396 | 🐛 16 | 🌐 PostScript | 📅 2023-08-02 -  Axiom is a free, open source computer algebra system. It is developed in its Spad language that compiles to Common Lisp.
-  * [FriCAS](https://github.com/fricas/fricas) ⭐ 397 | 🐛 37 | 📅 2026-10-10 is a fork, more maintained and easier to build. «The FriCAS algebra library is the largest and most advanced free general purpose computer algebra system».
+  * [FriCAS](https://github.com/fricas/fricas) ⭐ 398 | 🐛 38 | 📅 2026-10-12 is a fork, more maintained and easier to build. «The FriCAS algebra library is the largest and most advanced free general purpose computer algebra system».
   - FriCAS is written in its own strongly (but not statically) typed language and compiles to over half a million lines of Common Lisp code.
   - It comes with a fine print manual over 800 pages.
   - Example [blog post using FriCAS](https://www.stylewarning.com/posts/beating-bellard/)
-* [MathB](https://github.com/susam/mathb) ⭐ 369 | 🐛 0 | 🌐 Common Lisp | 📅 2025-03-16 - a math pastebin.
+* [MathB](https://github.com/susam/mathb) ⭐ 370 | 🐛 0 | 🌐 Common Lisp | 📅 2025-03-16 - a math pastebin.
 * [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp. [GPL2].
 
 ### File Manager
 
-* [Filer](https://github.com/froggey/Mezzano) ⭐ 3,914 | 🐛 14 | 🌐 Common Lisp | 📅 2026-10-11 - Mezzano File Manager.
+* [Filer](https://github.com/froggey/Mezzano) ⭐ 3,913 | 🐛 14 | 🌐 Common Lisp | 📅 2026-10-11 - Mezzano File Manager.
 
 See also:
 
-* cl-tuition library's [file manager example](https://github.com/atgreen/cl-tuition/tree/master?tab=readme-ov-file#gallery) ⭐ 149 | 🐛 3 | 🌐 Common Lisp | 📅 2026-09-13.
+* cl-tuition library's [file manager example](https://github.com/atgreen/cl-tuition/tree/master?tab=readme-ov-file#gallery) ⭐ 150 | 🐛 3 | 🌐 Common Lisp | 📅 2026-09-13.
 * [Lem's directory-mode](https://lem-project.github.io/modes/directory/).
 
 ![The Lem editor's directory mode](https://github-production-user-asset-6210df.s3.amazonaws.com/13656378/239887331-8c790229-1f7c-4581-b093-9c56d4d85420.png "Lem's directory mode")
@@ -247,7 +247,7 @@ See also:
 Those appeared in game jams (the list is not exhaustive):
 
 * [Asteroids](https://github.com/andyhd/asteroids) ⭐ 119 | 🐛 1 | 🌐 Common Lisp | 📅 2018-07-27 - Asteroids game in Common Lisp. \[No License Specified].
-* [CotD](https://github.com/gwathlobal/CotD) ⭐ 82 | 🐛 0 | 🌐 Common Lisp | 📅 2024-03-05 - A roguelike battle of Angels and Demons in the streets of a Human city. [GPL3].
+* [CotD](https://github.com/gwathlobal/CotD) ⭐ 82 | 🐛 0 | 🌐 Common Lisp | 📅 2026-10-12 - A roguelike battle of Angels and Demons in the streets of a Human city. [GPL3].
 * [The-invaders](https://github.com/sebity/the-invaders) ⭐ 43 | 🐛 0 | 🌐 Common Lisp | 📅 2015-08-08 - A remake of the classic game Space Invader. [GPL2].
 * [Option-9](https://github.com/psilord/option-9) ⭐ 35 | 🐛 0 | 🌐 Common Lisp | 📅 2022-12-11 -  A Shoot'em Up Game. No license specified.
 * [Starwar](https://github.com/xzpeter/starwar) ⭐ 30 | 🐛 1 | 🌐 Common Lisp | 📅 2012-06-06 - Starwar. \[No License Specified].
@@ -271,7 +271,7 @@ See also:
 
 ### Graphics
 
-* [charapainter](https://github.com/apr3vau/charapainter) ⭐ 38 | 🐛 0 | 🌐 Common Lisp | 📅 2025-09-14 - Drawing & converting images with colorful characters. Export to image, HTML and terminal. Desktop application.
+* [charapainter](https://github.com/apr3vau/charapainter) ⭐ 39 | 🐛 0 | 🌐 Common Lisp | 📅 2025-09-14 - Drawing & converting images with colorful characters. Export to image, HTML and terminal. Desktop application.
   * LispWorks. Also available in the AppStore.
 
 <img src="https://raw.githubusercontent.com/apr3vau/charapainter/main/res/0.2preview1.png" alt="Charapainter screenshot: drawing images with colorful characters" style="max-width: 100%"/>
@@ -330,10 +330,10 @@ Deprecated:
 
 #### Chat
 
-* [lisp-chat](https://github.com/ryukinix/lisp-chat/) ⭐ 205 | 🐛 2 | 🌐 Common Lisp | 📅 2026-09-05 - An experimental chat irc-like written in Lisp.
+* [lisp-chat](https://github.com/ryukinix/lisp-chat/) ⭐ 206 | 🐛 2 | 🌐 Common Lisp | 📅 2026-09-05 - An experimental chat irc-like written in Lisp.
   * terminal and web interfaces
   * alternative clients: Emacs, Flutter GUI for MacOS, Android, iOS and web.
-* [CLatter](https://github.com/parenworks/CLatter) ⭐ 12 | 🐛 0 | 🌐 Common Lisp | 📅 2026-02-20 - A terminal-based IRC client written in Common Lisp using the croatoan ncurses library.
+* [CLatter](https://github.com/parenworks/CLatter) ⭐ 13 | 🐛 0 | 🌐 Common Lisp | 📅 2026-02-20 - A terminal-based IRC client written in Common Lisp using the croatoan ncurses library.
 
 <img src="https://raw.githubusercontent.com/ryukinix/lisp-chat/master/lisp-chat-web.png" alt="lisp-chat web interface" style="max-width: 100%"/>
 
@@ -343,8 +343,8 @@ Deprecated:
 
 ### Operating System
 
-* [Mezzano](https://github.com/froggey/Mezzano) ⭐ 3,914 | 🐛 14 | 🌐 Common Lisp | 📅 2026-10-11 - An operating system written in Common Lisp
-* [Yalo](https://github.com/whily/yalo) ⭐ 593 | 🐛 1 | 🌐 Common Lisp | 📅 2022-05-11 - Lisp OS running on bare metal x86-64 hardware (WIP)
+* [Mezzano](https://github.com/froggey/Mezzano) ⭐ 3,913 | 🐛 14 | 🌐 Common Lisp | 📅 2026-10-11 - An operating system written in Common Lisp
+* [Yalo](https://github.com/whily/yalo) ⭐ 594 | 🐛 1 | 🌐 Common Lisp | 📅 2022-05-11 - Lisp OS running on bare metal x86-64 hardware (WIP)
 
 ### Productivity
 
@@ -379,7 +379,7 @@ See also:
 
 ### Video Player
 
-* [Terentino](https://github.com/froggey/Mezzano) ⭐ 3,914 | 🐛 14 | 🌐 Common Lisp | 📅 2026-10-11 - Mezzano Video Player. [MIT].
+* [Terentino](https://github.com/froggey/Mezzano) ⭐ 3,913 | 🐛 14 | 🌐 Common Lisp | 📅 2026-10-11 - Mezzano Video Player. [MIT].
 
 ### Wiki software
 
@@ -423,7 +423,7 @@ See also:
 ## Other Lists
 
 * [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,987 | 🐛 46 | 🌐 Makefile | 📅 2026-10-06
-* [Awesome Lisp Company](https://github.com/azzamsa/awesome-lisp-companies) ⭐ 652 | 🐛 7 | 📅 2026-06-12
+* [Awesome Lisp Company](https://github.com/azzamsa/awesome-lisp-companies) ⭐ 653 | 🐛 7 | 📅 2026-06-12
 * [Common Lisp games](https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp) ⭐ 256 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
   * [Lisp Game Jams](https://github.com/lispgames/lispgames.github.io/wiki/Lisp-Game-Jams) ⭐ 256 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
 * [Allegro Common Lisp Success Stories ](https://franz.com/success/) - by Franc Inc
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
-                "stars": 421,
+                "stars": 422,
                 "topics": [
                   "computer-aided-composition",
                   "music",
@@ -256,7 +256,7 @@
                     "open_issues": 31,
                     "owner": "coleslaw-org",
                     "repo": "coleslaw",
-                    "stars": 584,
+                    "stars": 583,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -289,7 +289,7 @@
                 "open_issues": 2,
                 "owner": "ryukinix",
                 "repo": "lisp-chat",
-                "stars": 205,
+                "stars": 206,
                 "topics": [
                   "chat",
                   "common-lisp",
@@ -443,7 +443,7 @@
                 "open_issues": 99,
                 "owner": "cbaggers",
                 "repo": "cepl",
-                "stars": 891,
+                "stars": 892,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -511,7 +511,7 @@
                     "open_issues": 32,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6544,
+                    "stars": 6545,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -574,7 +574,7 @@
                     "open_issues": 93,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3054,
+                    "stars": 3055,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -599,7 +599,7 @@
                     "open_issues": 14,
                     "owner": "neomacs-project",
                     "repo": "neomacs",
-                    "stars": 286,
+                    "stars": 287,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -641,7 +641,7 @@
                     "open_issues": 8,
                     "owner": "bluelisp",
                     "repo": "hemlock",
-                    "stars": 49,
+                    "stars": 50,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -662,7 +662,7 @@
                     "open_issues": 1,
                     "owner": "burtonsamograd",
                     "repo": "med",
-                    "stars": 15,
+                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -703,11 +703,11 @@
                     "id": 17603517,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-10-06T07:46:45Z",
+                    "last_commit": "2026-10-13T00:34:51Z",
                     "open_issues": 192,
                     "owner": "joaotavora",
                     "repo": "sly",
-                    "stars": 1438,
+                    "stars": 1439,
                     "topics": [
                       "common-lisp",
                       "emacs",
@@ -823,11 +823,11 @@
                     "id": 19549841,
                     "language": null,
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-10T12:34:17Z",
-                    "open_issues": 37,
+                    "last_commit": "2026-10-12T12:27:06Z",
+                    "open_issues": 38,
                     "owner": "fricas",
                     "repo": "fricas",
-                    "stars": 397,
+                    "stars": 398,
                     "topics": [
                       "computer-algebra",
                       "computer-algebra-system",
@@ -874,7 +874,7 @@
                 "open_issues": 0,
                 "owner": "susam",
                 "repo": "mathb",
-                "stars": 369,
+                "stars": 370,
                 "topics": [
                   "commonlisp",
                   "javascript",
@@ -912,7 +912,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3914,
+                "stars": 3913,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -933,7 +933,7 @@
                 "open_issues": 3,
                 "owner": "atgreen",
                 "repo": "cl-tuition",
-                "stars": 149,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1082,7 +1082,7 @@
                 "id": 78275506,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2024-03-05T05:20:30Z",
+                "last_commit": "2026-10-12T23:25:36Z",
                 "open_issues": 0,
                 "owner": "gwathlobal",
                 "repo": "CotD",
@@ -1265,7 +1265,7 @@
                 "open_issues": 0,
                 "owner": "calsys456",
                 "repo": "charapainter",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1635,7 +1635,7 @@
                     "open_issues": 2,
                     "owner": "ryukinix",
                     "repo": "lisp-chat",
-                    "stars": 205,
+                    "stars": 206,
                     "topics": [
                       "chat",
                       "common-lisp",
@@ -1666,7 +1666,7 @@
                     "open_issues": 0,
                     "owner": "parenworks",
                     "repo": "CLatter",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1735,7 +1735,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3914,
+                "stars": 3913,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1756,7 +1756,7 @@
                 "open_issues": 1,
                 "owner": "whily",
                 "repo": "yalo",
-                "stars": 593,
+                "stars": 594,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3914,
+                "stars": 3913,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2256,7 +2256,7 @@
             "open_issues": 7,
             "owner": "azzamsa",
             "repo": "awesome-lisp-companies",
-            "stars": 652,
+            "stars": 653,
             "topics": [
               "awesome-list",
               "lisp"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:34:29.181Z",
+    "last_updated": "2026-10-13T03:44:05.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
@@ -2324,7 +2324,7 @@
       "open_issues": 2,
       "owner": "azzamsa",
       "repo": "awesome-cl-software",
-      "stars": 402,
+      "stars": 403,
       "topics": [
         "awesome-list",
         "common-lisp"
