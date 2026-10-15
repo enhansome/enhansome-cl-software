@@ -511,7 +511,7 @@
                     "open_issues": 32,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6546,
+                    "stars": 6547,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -574,7 +574,7 @@
                     "open_issues": 88,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3057,
+                    "stars": 3058,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -823,7 +823,7 @@
                     "id": 19549841,
                     "language": null,
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-13T09:56:59Z",
+                    "last_commit": "2026-10-14T20:58:33Z",
                     "open_issues": 38,
                     "owner": "fricas",
                     "repo": "fricas",
@@ -1082,7 +1082,7 @@
                 "id": 78275506,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-14T01:26:04Z",
+                "last_commit": "2026-10-14T17:07:00Z",
                 "open_issues": 0,
                 "owner": "gwathlobal",
                 "repo": "CotD",
@@ -1574,7 +1574,7 @@
                     "open_issues": 147,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11032,
+                    "stars": 11033,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T02:03:53.011Z",
+    "last_updated": "2026-10-15T01:39:50.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
