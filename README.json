@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
-                "stars": 422,
+                "stars": 421,
                 "topics": [
                   "computer-aided-composition",
                   "music",
@@ -511,7 +511,7 @@
                     "open_issues": 32,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6547,
+                    "stars": 6549,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -574,7 +574,7 @@
                     "open_issues": 88,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3058,
+                    "stars": 3059,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -679,8 +679,8 @@
                     "id": 15344025,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-10-14T01:49:03Z",
-                    "open_issues": 291,
+                    "last_commit": "2026-10-15T04:26:14Z",
+                    "open_issues": 289,
                     "owner": "slime",
                     "repo": "slime",
                     "stars": 2093,
@@ -707,7 +707,7 @@
                     "open_issues": 192,
                     "owner": "joaotavora",
                     "repo": "sly",
-                    "stars": 1439,
+                    "stars": 1440,
                     "topics": [
                       "common-lisp",
                       "emacs",
@@ -823,8 +823,8 @@
                     "id": 19549841,
                     "language": null,
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-14T20:58:33Z",
-                    "open_issues": 38,
+                    "last_commit": "2026-10-15T22:34:25Z",
+                    "open_issues": 41,
                     "owner": "fricas",
                     "repo": "fricas",
                     "stars": 398,
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:39:50.227Z",
+    "last_updated": "2026-10-16T01:34:19.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",

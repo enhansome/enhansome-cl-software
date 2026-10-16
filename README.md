@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,039 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,522 | 🐛 105 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -72,7 +72,7 @@ See also:
 
 ### Audio
 
-* ⭐ [OpenMusic](https://github.com/openmusic-project/openmusic/) ⭐ 422 | 🐛 7 | 🌐 Common Lisp | 📅 2026-09-28 visual programming / computer-aided composition environment. \[GPL3]\[2].
+* ⭐ [OpenMusic](https://github.com/openmusic-project/openmusic/) ⭐ 421 | 🐛 7 | 🌐 Common Lisp | 📅 2026-09-28 visual programming / computer-aided composition environment. \[GPL3]\[2].
   * developped at [IRCAM](https://www.stms-lab.fr/team/representations-musicales/), France. The base of other research projects and software, such as [MusiqueLab2](https://www.stms-lab.fr/shop/product/musique-lab-2/), distributed by France's ministry of education to all music teachers.
 * ⭐ [OM7](https://github.com/openmusic-project/om7) ⭐ 175 | 🐛 31 | 🌐 Common Lisp | 📅 2022-09-14 - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. \[GPL3]\[2].
 * [Incudine](https://github.com/titola/incudine) ⭐ 60 | 🐛 2 | 🌐 Common Lisp | 📅 2026-09-27 -  Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly.
@@ -151,13 +151,13 @@ Terminal applications:
 
 #### Databases
 
-* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,547 | 🐛 32 | 🌐 Common Lisp | 📅 2026-09-14 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
+* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,549 | 🐛 32 | 🌐 Common Lisp | 📅 2026-09-14 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
 * ⭐ [Pgchart](https://github.com/dimitri/pgcharts) ⭐ 401 | 🐛 13 | 🌐 Common Lisp | 📅 2020-06-01 - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. \[No License Specified]
 * ⭐ [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
 #### Editors
 
-* [Lem](https://github.com/cxxxr/lem) ⭐ 3,058 | 🐛 88 | 🌐 Common Lisp | 📅 2026-10-13 - Common Lisp editor/IDE with high expansibility. [MIT].
+* [Lem](https://github.com/cxxxr/lem) ⭐ 3,059 | 🐛 88 | 🌐 Common Lisp | 📅 2026-10-13 - Common Lisp editor/IDE with high expansibility. [MIT].
   * works out of the box for many languages. Has a Language Server Protocol (LSP) client.
   * Git interface
 * [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 286 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
@@ -172,8 +172,8 @@ and also:
 
 Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
-* [SLIME](https://github.com/slime/slime) ⭐ 2,093 | 🐛 291 | 🌐 Common Lisp | 📅 2026-10-14 - The Superior Lisp Interaction Mode for Emacs.
-* [Sly](https://github.com/joaotavora/sly) ⭐ 1,439 | 🐛 192 | 🌐 Common Lisp | 📅 2026-10-13 - Sylvester the Cat's Common Lisp IDE (slime's fork)
+* [SLIME](https://github.com/slime/slime) ⭐ 2,093 | 🐛 289 | 🌐 Common Lisp | 📅 2026-10-15 - The Superior Lisp Interaction Mode for Emacs.
+* [Sly](https://github.com/joaotavora/sly) ⭐ 1,440 | 🐛 192 | 🌐 Common Lisp | 📅 2026-10-13 - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 Third-party:
 
@@ -205,7 +205,7 @@ For inspiration:
 ### Education
 
 * [Axiom](https://github.com/daly/axiom) ⭐ 396 | 🐛 16 | 🌐 PostScript | 📅 2023-08-02 -  Axiom is a free, open source computer algebra system. It is developed in its Spad language that compiles to Common Lisp.
-  * [FriCAS](https://github.com/fricas/fricas) ⭐ 398 | 🐛 38 | 📅 2026-10-14 is a fork, more maintained and easier to build. «The FriCAS algebra library is the largest and most advanced free general purpose computer algebra system».
+  * [FriCAS](https://github.com/fricas/fricas) ⭐ 398 | 🐛 41 | 📅 2026-10-15 is a fork, more maintained and easier to build. «The FriCAS algebra library is the largest and most advanced free general purpose computer algebra system».
   - FriCAS is written in its own strongly (but not statically) typed language and compiles to over half a million lines of Common Lisp code.
   - It comes with a fine print manual over 800 pages.
   - Example [blog post using FriCAS](https://www.stylewarning.com/posts/beating-bellard/)
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
