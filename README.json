@@ -508,10 +508,10 @@
                     "language": "Common Lisp",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-14T06:23:12Z",
-                    "open_issues": 32,
+                    "open_issues": 34,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6549,
+                    "stars": 6550,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -570,11 +570,11 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-10-13T08:46:15Z",
-                    "open_issues": 88,
+                    "last_commit": "2026-10-16T10:08:39Z",
+                    "open_issues": 89,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3059,
+                    "stars": 3060,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -1574,7 +1574,7 @@
                     "open_issues": 147,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11033,
+                    "stars": 11034,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1780,11 +1780,11 @@
                 "id": 23754510,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-11T14:25:47Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-17T00:53:03Z",
+                "open_issues": 14,
                 "owner": "tshatrov",
                 "repo": "ichiran",
-                "stars": 410,
+                "stars": 411,
                 "topics": [
                   "common-lisp",
                   "dictionary",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T01:34:19.340Z",
+    "last_updated": "2026-10-17T01:24:55.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
