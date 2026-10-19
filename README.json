@@ -679,7 +679,7 @@
                     "id": 15344025,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-10-17T23:53:36Z",
+                    "last_commit": "2026-10-18T20:21:46Z",
                     "open_issues": 289,
                     "owner": "slime",
                     "repo": "slime",
@@ -824,7 +824,7 @@
                     "language": null,
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-15T22:34:25Z",
-                    "open_issues": 40,
+                    "open_issues": 39,
                     "owner": "fricas",
                     "repo": "fricas",
                     "stars": 398,
@@ -912,7 +912,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3915,
+                "stars": 3914,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1574,7 +1574,7 @@
                     "open_issues": 147,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11035,
+                    "stars": 11034,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1735,7 +1735,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3915,
+                "stars": 3914,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 14,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3915,
+                "stars": 3914,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2228,7 +2228,7 @@
             "open_issues": 46,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2986,
+            "stars": 2987,
             "topics": [
               "awesome",
               "common-lisp",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:22:33.993Z",
+    "last_updated": "2026-10-19T01:30:45.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
