@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,504 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,961 | 🐛 105 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -157,7 +157,7 @@ Terminal applications:
 
 #### Editors
 
-* [Lem](https://github.com/cxxxr/lem) ⭐ 3,059 | 🐛 88 | 🌐 Common Lisp | 📅 2026-10-16 - Common Lisp editor/IDE with high expansibility. [MIT].
+* [Lem](https://github.com/cxxxr/lem) ⭐ 3,059 | 🐛 84 | 🌐 Common Lisp | 📅 2026-10-20 - Common Lisp editor/IDE with high expansibility. [MIT].
   * works out of the box for many languages. Has a Language Server Protocol (LSP) client.
   * Git interface
 * [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 286 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

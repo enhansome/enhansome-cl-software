@@ -570,8 +570,8 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T10:08:39Z",
-                    "open_issues": 88,
+                    "last_commit": "2026-10-20T13:17:33Z",
+                    "open_issues": 84,
                     "owner": "lem-project",
                     "repo": "lem",
                     "stars": 3059,
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:59:18.070Z",
+    "last_updated": "2026-10-21T01:50:25.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
