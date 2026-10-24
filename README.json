@@ -704,7 +704,7 @@
                     "language": "Common Lisp",
                     "license": null,
                     "last_commit": "2026-10-13T00:34:51Z",
-                    "open_issues": 192,
+                    "open_issues": 193,
                     "owner": "joaotavora",
                     "repo": "sly",
                     "stars": 1442,
@@ -823,8 +823,8 @@
                     "id": 19549841,
                     "language": null,
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-21T19:43:24Z",
-                    "open_issues": 37,
+                    "last_commit": "2026-10-23T21:02:57Z",
+                    "open_issues": 38,
                     "owner": "fricas",
                     "repo": "fricas",
                     "stars": 399,
@@ -1570,11 +1570,11 @@
                     "id": 87668160,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-10-17T18:00:10Z",
-                    "open_issues": 146,
+                    "last_commit": "2026-10-23T20:24:06Z",
+                    "open_issues": 145,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11039,
+                    "stars": 11038,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T01:44:39.961Z",
+    "last_updated": "2026-10-24T01:48:19.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
