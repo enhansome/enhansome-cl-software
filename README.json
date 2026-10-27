@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
-                "stars": 421,
+                "stars": 422,
                 "topics": [
                   "computer-aided-composition",
                   "music",
@@ -683,7 +683,7 @@
                     "open_issues": 290,
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2095,
+                    "stars": 2096,
                     "topics": [
                       "common-lisp",
                       "emacs"
@@ -707,7 +707,7 @@
                     "open_issues": 193,
                     "owner": "joaotavora",
                     "repo": "sly",
-                    "stars": 1443,
+                    "stars": 1442,
                     "topics": [
                       "common-lisp",
                       "emacs",
@@ -823,7 +823,7 @@
                     "id": 19549841,
                     "language": null,
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-25T14:48:39Z",
+                    "last_commit": "2026-10-26T09:33:41Z",
                     "open_issues": 42,
                     "owner": "fricas",
                     "repo": "fricas",
@@ -909,7 +909,7 @@
                 "language": "Common Lisp",
                 "license": "MIT",
                 "last_commit": "2026-10-11T22:58:14Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "froggey",
                 "repo": "Mezzano",
                 "stars": 3912,
@@ -930,10 +930,10 @@
                 "language": "Common Lisp",
                 "license": "MIT",
                 "last_commit": "2026-09-13T10:38:34Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "atgreen",
                 "repo": "cl-tuition",
-                "stars": 152,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1314,7 +1314,7 @@
                     "open_issues": 39,
                     "owner": "vydd",
                     "repo": "sketch",
-                    "stars": 1501,
+                    "stars": 1502,
                     "topics": [
                       "2d",
                       "art",
@@ -1574,7 +1574,7 @@
                     "open_issues": 145,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11041,
+                    "stars": 11042,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1732,7 +1732,7 @@
                 "language": "Common Lisp",
                 "license": "MIT",
                 "last_commit": "2026-10-11T22:58:14Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "froggey",
                 "repo": "Mezzano",
                 "stars": 3912,
@@ -2067,7 +2067,7 @@
                 "language": "Common Lisp",
                 "license": "MIT",
                 "last_commit": "2026-10-11T22:58:14Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "froggey",
                 "repo": "Mezzano",
                 "stars": 3912,
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:28:57.245Z",
+    "last_updated": "2026-10-27T02:17:42.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
