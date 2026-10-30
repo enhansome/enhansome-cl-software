@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,369 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,893 | 🐛 105 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -151,13 +151,13 @@ Terminal applications:
 
 #### Databases
 
-* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,549 | 🐛 36 | 🌐 Common Lisp | 📅 2026-09-14 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
+* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,551 | 🐛 36 | 🌐 Common Lisp | 📅 2026-09-14 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
 * ⭐ [Pgchart](https://github.com/dimitri/pgcharts) ⭐ 401 | 🐛 13 | 🌐 Common Lisp | 📅 2020-06-01 - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. \[No License Specified]
 * ⭐ [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
 #### Editors
 
-* [Lem](https://github.com/cxxxr/lem) ⭐ 3,067 | 🐛 87 | 🌐 Common Lisp | 📅 2026-10-28 - Common Lisp editor/IDE with high expansibility. [MIT].
+* [Lem](https://github.com/cxxxr/lem) ⭐ 3,067 | 🐛 88 | 🌐 Common Lisp | 📅 2026-10-28 - Common Lisp editor/IDE with high expansibility. [MIT].
   * works out of the box for many languages. Has a Language Server Protocol (LSP) client.
   * Git interface
 * [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 286 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
@@ -173,13 +173,13 @@ and also:
 Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
 * [SLIME](https://github.com/slime/slime) ⭐ 2,096 | 🐛 290 | 🌐 Common Lisp | 📅 2026-10-18 - The Superior Lisp Interaction Mode for Emacs.
-* [Sly](https://github.com/joaotavora/sly) ⭐ 1,442 | 🐛 190 | 🌐 Common Lisp | 📅 2026-10-28 - Sylvester the Cat's Common Lisp IDE (slime's fork)
+* [Sly](https://github.com/joaotavora/sly) ⭐ 1,443 | 🐛 190 | 🌐 Common Lisp | 📅 2026-10-28 - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 Third-party:
 
 * [Judge0 IDE](https://ide.judge0.com/?lUpj) is an online editor which supports Common Lisp (SBCL). \[MIT]\[200].
 
-For more lisp development libraries, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,988 | 🐛 47 | 🌐 Makefile | 📅 2026-10-27.
+For more lisp development libraries, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,989 | 🐛 47 | 🌐 Makefile | 📅 2026-10-27.
 
 #### Others
 
@@ -205,7 +205,7 @@ For inspiration:
 ### Education
 
 * [Axiom](https://github.com/daly/axiom) ⭐ 396 | 🐛 16 | 🌐 PostScript | 📅 2023-08-02 -  Axiom is a free, open source computer algebra system. It is developed in its Spad language that compiles to Common Lisp.
-  * [FriCAS](https://github.com/fricas/fricas) ⭐ 399 | 🐛 41 | 📅 2026-10-28 is a fork, more maintained and easier to build. «The FriCAS algebra library is the largest and most advanced free general purpose computer algebra system».
+  * [FriCAS](https://github.com/fricas/fricas) ⭐ 400 | 🐛 44 | 📅 2026-10-28 is a fork, more maintained and easier to build. «The FriCAS algebra library is the largest and most advanced free general purpose computer algebra system».
   - FriCAS is written in its own strongly (but not statically) typed language and compiles to over half a million lines of Common Lisp code.
   - It comes with a fine print manual over 800 pages.
   - Example [blog post using FriCAS](https://www.stylewarning.com/posts/beating-bellard/)
@@ -214,7 +214,7 @@ For inspiration:
 
 ### File Manager
 
-* [Filer](https://github.com/froggey/Mezzano) ⭐ 3,913 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-28 - Mezzano File Manager.
+* [Filer](https://github.com/froggey/Mezzano) ⭐ 3,914 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-28 - Mezzano File Manager.
 
 See also:
 
@@ -322,7 +322,7 @@ Terminal applications:
 
 #### Browser
 
-* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,043 | 🐛 145 | 🌐 Common Lisp | 📅 2026-10-28 - The fastest productivity web-browser.
+* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,044 | 🐛 146 | 🌐 Common Lisp | 📅 2026-10-30 - The fastest productivity web-browser.
 
 Deprecated:
 
@@ -339,11 +339,11 @@ Deprecated:
 
 #### Torrent
 
-* [cl-torrents](https://github.com/vindarel/cl-torrents) ⭐ 118 | 🐛 0 | 🌐 Common Lisp | 📅 2025-01-14 - a library and app with a command line and readline interface to search for torrents on popular trackers.
+* [cl-torrents](https://github.com/vindarel/cl-torrents) ⭐ 119 | 🐛 0 | 🌐 Common Lisp | 📅 2025-01-14 - a library and app with a command line and readline interface to search for torrents on popular trackers.
 
 ### Operating System
 
-* [Mezzano](https://github.com/froggey/Mezzano) ⭐ 3,913 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-28 - An operating system written in Common Lisp
+* [Mezzano](https://github.com/froggey/Mezzano) ⭐ 3,914 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-28 - An operating system written in Common Lisp
 * [Yalo](https://github.com/whily/yalo) ⭐ 595 | 🐛 1 | 🌐 Common Lisp | 📅 2022-05-11 - Lisp OS running on bare metal x86-64 hardware (WIP)
 
 ### Productivity
@@ -379,7 +379,7 @@ See also:
 
 ### Video Player
 
-* [Terentino](https://github.com/froggey/Mezzano) ⭐ 3,913 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-28 - Mezzano Video Player. [MIT].
+* [Terentino](https://github.com/froggey/Mezzano) ⭐ 3,914 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-28 - Mezzano Video Player. [MIT].
 
 ### Wiki software
 
@@ -422,7 +422,7 @@ See also:
 
 ## Other Lists
 
-* [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,988 | 🐛 47 | 🌐 Makefile | 📅 2026-10-27
+* [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,989 | 🐛 47 | 🌐 Makefile | 📅 2026-10-27
 * [Awesome Lisp Company](https://github.com/azzamsa/awesome-lisp-companies) ⭐ 653 | 🐛 6 | 📅 2026-10-27
 * [Common Lisp games](https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp) ⭐ 256 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
   * [Lisp Game Jams](https://github.com/lispgames/lispgames.github.io/wiki/Lisp-Game-Jams) ⭐ 256 | 🐛 2 | 🌐 HTML | 📅 2025-06-20
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
