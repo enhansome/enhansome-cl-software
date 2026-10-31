@@ -17,8 +17,8 @@
                 "id": 148596909,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-28T16:37:29Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-30T16:41:07Z",
+                "open_issues": 6,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
                 "stars": 422,
@@ -511,7 +511,7 @@
                     "open_issues": 36,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6551,
+                    "stars": 6553,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -570,11 +570,11 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T13:27:16Z",
-                    "open_issues": 88,
+                    "last_commit": "2026-10-30T07:41:45Z",
+                    "open_issues": 92,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3067,
+                    "stars": 3069,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -823,8 +823,8 @@
                     "id": 19549841,
                     "language": null,
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-28T21:36:52Z",
-                    "open_issues": 44,
+                    "last_commit": "2026-10-31T00:51:31Z",
+                    "open_issues": 45,
                     "owner": "fricas",
                     "repo": "fricas",
                     "stars": 400,
@@ -912,7 +912,7 @@
                 "open_issues": 13,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3914,
+                "stars": 3915,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -966,7 +966,7 @@
                     "open_issues": 5,
                     "owner": "Shirakumo",
                     "repo": "trial",
-                    "stars": 1137,
+                    "stars": 1138,
                     "topics": [
                       "common-lisp",
                       "game-development",
@@ -1314,7 +1314,7 @@
                     "open_issues": 39,
                     "owner": "vydd",
                     "repo": "sketch",
-                    "stars": 1503,
+                    "stars": 1504,
                     "topics": [
                       "2d",
                       "art",
@@ -1547,7 +1547,7 @@
                 "id": 1203748673,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-07-12T08:40:51Z",
+                "last_commit": "2026-10-30T08:54:16Z",
                 "open_issues": 0,
                 "owner": "parenworks",
                 "repo": "crafterbin",
@@ -1570,11 +1570,11 @@
                     "id": 87668160,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-10-30T02:44:32Z",
-                    "open_issues": 146,
+                    "last_commit": "2026-10-30T16:38:56Z",
+                    "open_issues": 144,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11044,
+                    "stars": 11046,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1735,7 +1735,7 @@
                 "open_issues": 13,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3914,
+                "stars": 3915,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 13,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3914,
+                "stars": 3915,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:46:57.305Z",
+    "last_updated": "2026-10-31T02:38:04.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
