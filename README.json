@@ -17,7 +17,7 @@
                 "id": 148596909,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-31T14:24:34Z",
+                "last_commit": "2026-11-01T18:09:52Z",
                 "open_issues": 6,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
@@ -511,7 +511,7 @@
                     "open_issues": 36,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6553,
+                    "stars": 6554,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -574,7 +574,7 @@
                     "open_issues": 92,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3069,
+                    "stars": 3068,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -823,7 +823,7 @@
                     "id": 19549841,
                     "language": null,
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-01T01:22:58Z",
+                    "last_commit": "2026-11-01T23:24:45Z",
                     "open_issues": 45,
                     "owner": "fricas",
                     "repo": "fricas",
@@ -1570,11 +1570,11 @@
                     "id": 87668160,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-11-01T00:25:32Z",
-                    "open_issues": 145,
+                    "last_commit": "2026-11-01T19:31:42Z",
+                    "open_issues": 146,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11047,
+                    "stars": 11048,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2126,7 +2126,7 @@
                 "open_issues": 85,
                 "owner": "stumpwm",
                 "repo": "stumpwm",
-                "stars": 2028,
+                "stars": 2029,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:26:24.071Z",
+    "last_updated": "2026-11-02T02:40:44.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
