@@ -508,10 +508,10 @@
                     "language": "Common Lisp",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-14T06:23:12Z",
-                    "open_issues": 36,
+                    "open_issues": 37,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6554,
+                    "stars": 6555,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -570,11 +570,11 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T07:41:45Z",
-                    "open_issues": 92,
+                    "last_commit": "2026-11-02T23:18:01Z",
+                    "open_issues": 91,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3068,
+                    "stars": 3070,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -679,11 +679,11 @@
                     "id": 15344025,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-10-18T20:21:46Z",
+                    "last_commit": "2026-11-02T15:14:49Z",
                     "open_issues": 290,
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2096,
+                    "stars": 2097,
                     "topics": [
                       "common-lisp",
                       "emacs"
@@ -707,7 +707,7 @@
                     "open_issues": 190,
                     "owner": "joaotavora",
                     "repo": "sly",
-                    "stars": 1444,
+                    "stars": 1445,
                     "topics": [
                       "common-lisp",
                       "emacs",
@@ -1344,7 +1344,7 @@
                     "open_issues": 33,
                     "owner": "kaveh808",
                     "repo": "kons-9",
-                    "stars": 654,
+                    "stars": 655,
                     "topics": [
                       "3d-animation",
                       "3d-graphics",
@@ -1570,11 +1570,11 @@
                     "id": 87668160,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-11-01T19:31:42Z",
+                    "last_commit": "2026-11-03T02:37:31Z",
                     "open_issues": 146,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11048,
+                    "stars": 11047,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1784,7 +1784,7 @@
                 "open_issues": 13,
                 "owner": "tshatrov",
                 "repo": "ichiran",
-                "stars": 414,
+                "stars": 413,
                 "topics": [
                   "common-lisp",
                   "dictionary",
@@ -1988,7 +1988,7 @@
                 "id": 119424,
                 "language": "Common Lisp",
                 "license": "BSD-3-Clause",
-                "last_commit": "2025-08-28T08:03:46Z",
+                "last_commit": "2026-11-02T10:59:56Z",
                 "open_issues": 2,
                 "owner": "ledger",
                 "repo": "cl-ledger",
@@ -2126,7 +2126,7 @@
                 "open_issues": 85,
                 "owner": "stumpwm",
                 "repo": "stumpwm",
-                "stars": 2029,
+                "stars": 2028,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2228,7 +2228,7 @@
             "open_issues": 47,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2989,
+            "stars": 2990,
             "topics": [
               "awesome",
               "common-lisp",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T02:40:44.188Z",
+    "last_updated": "2026-11-03T03:58:47.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
