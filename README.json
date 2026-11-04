@@ -570,11 +570,11 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T23:18:01Z",
-                    "open_issues": 91,
+                    "last_commit": "2026-11-03T15:13:58Z",
+                    "open_issues": 88,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3070,
+                    "stars": 3071,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -1570,11 +1570,11 @@
                     "id": 87668160,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-11-03T02:37:31Z",
+                    "last_commit": "2026-11-03T23:10:04Z",
                     "open_issues": 146,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11047,
+                    "stars": 11046,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2225,7 +2225,7 @@
             "language": "Makefile",
             "license": "NOASSERTION",
             "last_commit": "2026-10-27T09:31:12Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
             "stars": 2990,
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:58:47.041Z",
+    "last_updated": "2026-11-04T03:06:13.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
