@@ -440,7 +440,7 @@
                 "language": "Common Lisp",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-07-09T13:28:08Z",
-                "open_issues": 98,
+                "open_issues": 99,
                 "owner": "cbaggers",
                 "repo": "cepl",
                 "stars": 892,
@@ -464,7 +464,7 @@
                 "open_issues": 2,
                 "owner": "phantomics",
                 "repo": "seed",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "common-lisp",
                   "seed"
@@ -571,10 +571,10 @@
                     "language": "Common Lisp",
                     "license": "MIT",
                     "last_commit": "2026-11-03T15:13:58Z",
-                    "open_issues": 88,
+                    "open_issues": 87,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3072,
+                    "stars": 3071,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -823,7 +823,7 @@
                     "id": 19549841,
                     "language": null,
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-01T23:24:45Z",
+                    "last_commit": "2026-11-05T19:05:56Z",
                     "open_issues": 45,
                     "owner": "fricas",
                     "repo": "fricas",
@@ -1570,11 +1570,11 @@
                     "id": 87668160,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-11-05T03:14:39Z",
-                    "open_issues": 145,
+                    "last_commit": "2026-11-06T02:57:04Z",
+                    "open_issues": 144,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11047,
+                    "stars": 11050,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2228,7 +2228,7 @@
             "open_issues": 46,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2990,
+            "stars": 2991,
             "topics": [
               "awesome",
               "common-lisp",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T03:36:44.601Z",
+    "last_updated": "2026-11-06T03:31:44.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
