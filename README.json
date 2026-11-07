@@ -17,7 +17,7 @@
                 "id": 148596909,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T18:09:52Z",
+                "last_commit": "2026-11-06T23:25:10Z",
                 "open_issues": 6,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
@@ -213,7 +213,7 @@
                 "open_issues": 83,
                 "owner": "viebel",
                 "repo": "klipse",
-                "stars": 3133,
+                "stars": 3132,
                 "topics": [
                   "brainfuck",
                   "clojure",
@@ -256,7 +256,7 @@
                     "open_issues": 31,
                     "owner": "coleslaw-org",
                     "repo": "coleslaw",
-                    "stars": 582,
+                    "stars": 583,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -511,7 +511,7 @@
                     "open_issues": 37,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6556,
+                    "stars": 6558,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -571,10 +571,10 @@
                     "language": "Common Lisp",
                     "license": "MIT",
                     "last_commit": "2026-11-03T15:13:58Z",
-                    "open_issues": 87,
+                    "open_issues": 88,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3071,
+                    "stars": 3072,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -707,7 +707,7 @@
                     "open_issues": 191,
                     "owner": "joaotavora",
                     "repo": "sly",
-                    "stars": 1445,
+                    "stars": 1446,
                     "topics": [
                       "common-lisp",
                       "emacs",
@@ -827,7 +827,7 @@
                     "open_issues": 45,
                     "owner": "fricas",
                     "repo": "fricas",
-                    "stars": 400,
+                    "stars": 399,
                     "topics": [
                       "computer-algebra",
                       "computer-algebra-system",
@@ -1344,7 +1344,7 @@
                     "open_issues": 33,
                     "owner": "kaveh808",
                     "repo": "kons-9",
-                    "stars": 656,
+                    "stars": 657,
                     "topics": [
                       "3d-animation",
                       "3d-graphics",
@@ -1570,11 +1570,11 @@
                     "id": 87668160,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-11-06T02:57:04Z",
+                    "last_commit": "2026-11-06T19:32:59Z",
                     "open_issues": 144,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11050,
+                    "stars": 11052,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2256,7 +2256,7 @@
             "open_issues": 6,
             "owner": "azzamsa",
             "repo": "awesome-lisp-companies",
-            "stars": 654,
+            "stars": 655,
             "topics": [
               "awesome-list",
               "lisp"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:31:44.691Z",
+    "last_updated": "2026-11-07T03:01:36.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
