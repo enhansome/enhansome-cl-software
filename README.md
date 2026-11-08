@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,564 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 533,261 | 🐛 103 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -142,7 +142,7 @@ See also:
 ### Development Tools
 
 * [Cepl](https://github.com/cbaggers/cepl) ⭐ 892 | 🐛 99 | 🌐 Common Lisp | 📅 2026-07-09 - Code Evaluate Play Loop. [2-clause BSD].
-* [Seed](https://github.com/phantomics/seed) ⭐ 139 | 🐛 2 | 🌐 Common Lisp | 📅 2026-09-17 - Interactive software environment based on Common Lisp. [GPL3].
+* [Seed](https://github.com/phantomics/seed) ⭐ 139 | 🐛 2 | 🌐 Common Lisp | 📅 2026-11-07 - Interactive software environment based on Common Lisp. [GPL3].
 * [barf](https://github.com/ebzzry/barf) - A simple Nixpkgs and NixOS helper. [CC0].
 
 Terminal applications:
@@ -157,7 +157,7 @@ Terminal applications:
 
 #### Editors
 
-* [Lem](https://github.com/cxxxr/lem) ⭐ 3,072 | 🐛 88 | 🌐 Common Lisp | 📅 2026-11-03 - Common Lisp editor/IDE with high expansibility. [MIT].
+* [Lem](https://github.com/cxxxr/lem) ⭐ 3,073 | 🐛 87 | 🌐 Common Lisp | 📅 2026-11-07 - Common Lisp editor/IDE with high expansibility. [MIT].
   * works out of the box for many languages. Has a Language Server Protocol (LSP) client.
   * Git interface
 * [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 286 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
@@ -173,7 +173,7 @@ and also:
 Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
 * [SLIME](https://github.com/slime/slime) ⭐ 2,097 | 🐛 290 | 🌐 Common Lisp | 📅 2026-11-02 - The Superior Lisp Interaction Mode for Emacs.
-* [Sly](https://github.com/joaotavora/sly) ⭐ 1,446 | 🐛 191 | 🌐 Common Lisp | 📅 2026-10-28 - Sylvester the Cat's Common Lisp IDE (slime's fork)
+* [Sly](https://github.com/joaotavora/sly) ⭐ 1,445 | 🐛 191 | 🌐 Common Lisp | 📅 2026-10-28 - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 Third-party:
 
@@ -214,7 +214,7 @@ For inspiration:
 
 ### File Manager
 
-* [Filer](https://github.com/froggey/Mezzano) ⭐ 3,915 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-28 - Mezzano File Manager.
+* [Filer](https://github.com/froggey/Mezzano) ⭐ 3,916 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-28 - Mezzano File Manager.
 
 See also:
 
@@ -322,7 +322,7 @@ Terminal applications:
 
 #### Browser
 
-* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,052 | 🐛 144 | 🌐 Common Lisp | 📅 2026-11-06 - The fastest productivity web-browser.
+* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,053 | 🐛 142 | 🌐 Common Lisp | 📅 2026-11-07 - The fastest productivity web-browser.
 
 Deprecated:
 
@@ -343,7 +343,7 @@ Deprecated:
 
 ### Operating System
 
-* [Mezzano](https://github.com/froggey/Mezzano) ⭐ 3,915 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-28 - An operating system written in Common Lisp
+* [Mezzano](https://github.com/froggey/Mezzano) ⭐ 3,916 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-28 - An operating system written in Common Lisp
 * [Yalo](https://github.com/whily/yalo) ⭐ 595 | 🐛 1 | 🌐 Common Lisp | 📅 2022-05-11 - Lisp OS running on bare metal x86-64 hardware (WIP)
 
 ### Productivity
@@ -379,7 +379,7 @@ See also:
 
 ### Video Player
 
-* [Terentino](https://github.com/froggey/Mezzano) ⭐ 3,915 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-28 - Mezzano Video Player. [MIT].
+* [Terentino](https://github.com/froggey/Mezzano) ⭐ 3,916 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-28 - Mezzano Video Player. [MIT].
 
 ### Wiki software
 
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
