@@ -443,7 +443,7 @@
                 "open_issues": 99,
                 "owner": "cbaggers",
                 "repo": "cepl",
-                "stars": 892,
+                "stars": 893,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -460,7 +460,7 @@
                 "id": 106623865,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-07T10:35:27Z",
+                "last_commit": "2026-11-09T11:08:47Z",
                 "open_issues": 2,
                 "owner": "phantomics",
                 "repo": "seed",
@@ -570,11 +570,11 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-11-07T16:32:15Z",
+                    "last_commit": "2026-11-09T15:09:52Z",
                     "open_issues": 87,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3073,
+                    "stars": 3076,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -683,7 +683,7 @@
                     "open_issues": 290,
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2097,
+                    "stars": 2098,
                     "topics": [
                       "common-lisp",
                       "emacs"
@@ -1344,7 +1344,7 @@
                     "open_issues": 33,
                     "owner": "kaveh808",
                     "repo": "kons-9",
-                    "stars": 657,
+                    "stars": 658,
                     "topics": [
                       "3d-animation",
                       "3d-graphics",
@@ -1371,7 +1371,7 @@
                     "open_issues": 0,
                     "owner": "inconvergent",
                     "repo": "weir",
-                    "stars": 639,
+                    "stars": 640,
                     "topics": [
                       "art",
                       "common-lisp",
@@ -1571,10 +1571,10 @@
                     "language": "Common Lisp",
                     "license": null,
                     "last_commit": "2026-11-09T00:54:33Z",
-                    "open_issues": 140,
+                    "open_issues": 141,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11053,
+                    "stars": 11057,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:52:34.555Z",
+    "last_updated": "2026-11-10T04:43:28.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",

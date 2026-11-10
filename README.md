@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 533,923 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,376 | 🐛 103 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -141,8 +141,8 @@ See also:
 
 ### Development Tools
 
-* [Cepl](https://github.com/cbaggers/cepl) ⭐ 892 | 🐛 99 | 🌐 Common Lisp | 📅 2026-07-09 - Code Evaluate Play Loop. [2-clause BSD].
-* [Seed](https://github.com/phantomics/seed) ⭐ 139 | 🐛 2 | 🌐 Common Lisp | 📅 2026-11-07 - Interactive software environment based on Common Lisp. [GPL3].
+* [Cepl](https://github.com/cbaggers/cepl) ⭐ 893 | 🐛 99 | 🌐 Common Lisp | 📅 2026-07-09 - Code Evaluate Play Loop. [2-clause BSD].
+* [Seed](https://github.com/phantomics/seed) ⭐ 139 | 🐛 2 | 🌐 Common Lisp | 📅 2026-11-09 - Interactive software environment based on Common Lisp. [GPL3].
 * [barf](https://github.com/ebzzry/barf) - A simple Nixpkgs and NixOS helper. [CC0].
 
 Terminal applications:
@@ -157,7 +157,7 @@ Terminal applications:
 
 #### Editors
 
-* [Lem](https://github.com/cxxxr/lem) ⭐ 3,073 | 🐛 87 | 🌐 Common Lisp | 📅 2026-11-07 - Common Lisp editor/IDE with high expansibility. [MIT].
+* [Lem](https://github.com/cxxxr/lem) ⭐ 3,076 | 🐛 87 | 🌐 Common Lisp | 📅 2026-11-09 - Common Lisp editor/IDE with high expansibility. [MIT].
   * works out of the box for many languages. Has a Language Server Protocol (LSP) client.
   * Git interface
 * [Neomacs](https://github.com/neomacs-project/neomacs) ⭐ 286 | 🐛 14 | 🌐 Common Lisp | 📅 2025-02-17 - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
@@ -172,7 +172,7 @@ and also:
 
 Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
-* [SLIME](https://github.com/slime/slime) ⭐ 2,097 | 🐛 290 | 🌐 Common Lisp | 📅 2026-11-08 - The Superior Lisp Interaction Mode for Emacs.
+* [SLIME](https://github.com/slime/slime) ⭐ 2,098 | 🐛 290 | 🌐 Common Lisp | 📅 2026-11-08 - The Superior Lisp Interaction Mode for Emacs.
 * [Sly](https://github.com/joaotavora/sly) ⭐ 1,446 | 🐛 191 | 🌐 Common Lisp | 📅 2026-10-28 - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 Third-party:
@@ -282,7 +282,7 @@ See also:
 #### Image Creation
 
 * ⭐ [Sketch](https://github.com/vydd/sketch) ⭐ 1,504 | 🐛 39 | 🌐 Common Lisp | 📅 2026-01-18 -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
-* ⭐ [Kons-9](https://github.com/kaveh808/kons-9) ⭐ 657 | 🐛 33 | 🌐 Common Lisp | 📅 2023-11-13 - A 3D content creation tool. [MIT]
+* ⭐ [Kons-9](https://github.com/kaveh808/kons-9) ⭐ 658 | 🐛 33 | 🌐 Common Lisp | 📅 2023-11-13 - A 3D content creation tool. [MIT]
   * <https://www.youtube.com/watch?v=THMzaVDaZP8>
 * [Weir](https://github.com/inconvergent/weir) ⚠️ Archived - An experimental system for writing generative systems.
 * [PTC's 3D designer "Creo Elements" CAD software](https://www.ptc.com/en/products/cad/3d-design) - 3D Design Software. [Proprietary].
@@ -322,7 +322,7 @@ Terminal applications:
 
 #### Browser
 
-* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,053 | 🐛 140 | 🌐 Common Lisp | 📅 2026-11-09 - The fastest productivity web-browser.
+* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,057 | 🐛 141 | 🌐 Common Lisp | 📅 2026-11-09 - The fastest productivity web-browser.
 
 Deprecated:
 
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
