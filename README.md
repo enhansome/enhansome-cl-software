@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Common Lisp Application Software</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,443 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,017 | 🐛 103 | 📅 2026-09-02
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
@@ -72,7 +72,7 @@ See also:
 
 ### Audio
 
-* ⭐ [OpenMusic](https://github.com/openmusic-project/openmusic/) ⭐ 422 | 🐛 7 | 🌐 Common Lisp | 📅 2026-11-08 visual programming / computer-aided composition environment. \[GPL3]\[2].
+* ⭐ [OpenMusic](https://github.com/openmusic-project/openmusic/) ⭐ 422 | 🐛 7 | 🌐 Common Lisp | 📅 2026-11-12 visual programming / computer-aided composition environment. \[GPL3]\[2].
   * developped at [IRCAM](https://www.stms-lab.fr/team/representations-musicales/), France. The base of other research projects and software, such as [MusiqueLab2](https://www.stms-lab.fr/shop/product/musique-lab-2/), distributed by France's ministry of education to all music teachers.
 * ⭐ [OM7](https://github.com/openmusic-project/om7) ⭐ 175 | 🐛 31 | 🌐 Common Lisp | 📅 2022-09-14 - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. \[GPL3]\[2].
 * [Incudine](https://github.com/titola/incudine) ⭐ 60 | 🐛 2 | 🌐 Common Lisp | 📅 2026-10-25 -  Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly.
@@ -142,7 +142,7 @@ See also:
 ### Development Tools
 
 * [Cepl](https://github.com/cbaggers/cepl) ⭐ 893 | 🐛 99 | 🌐 Common Lisp | 📅 2026-07-09 - Code Evaluate Play Loop. [2-clause BSD].
-* [Seed](https://github.com/phantomics/seed) ⭐ 139 | 🐛 2 | 🌐 Common Lisp | 📅 2026-11-11 - Interactive software environment based on Common Lisp. [GPL3].
+* [Seed](https://github.com/phantomics/seed) ⭐ 139 | 🐛 2 | 🌐 Common Lisp | 📅 2026-11-12 - Interactive software environment based on Common Lisp. [GPL3].
 * [barf](https://github.com/ebzzry/barf) - A simple Nixpkgs and NixOS helper. [CC0].
 
 Terminal applications:
@@ -151,7 +151,7 @@ Terminal applications:
 
 #### Databases
 
-* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,559 | 🐛 37 | 🌐 Common Lisp | 📅 2026-09-14 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
+* ⭐ [Pgloader](https://github.com/dimitri/pgloader/) ⭐ 6,559 | 🐛 38 | 🌐 Common Lisp | 📅 2026-09-14 - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
 * ⭐ [Pgchart](https://github.com/dimitri/pgcharts) ⭐ 401 | 🐛 13 | 🌐 Common Lisp | 📅 2020-06-01 - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. \[No License Specified]
 * ⭐ [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
@@ -172,8 +172,8 @@ and also:
 
 Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
-* [SLIME](https://github.com/slime/slime) ⭐ 2,098 | 🐛 290 | 🌐 Common Lisp | 📅 2026-11-08 - The Superior Lisp Interaction Mode for Emacs.
-* [Sly](https://github.com/joaotavora/sly) ⭐ 1,446 | 🐛 191 | 🌐 Common Lisp | 📅 2026-10-28 - Sylvester the Cat's Common Lisp IDE (slime's fork)
+* [SLIME](https://github.com/slime/slime) ⭐ 2,097 | 🐛 290 | 🌐 Common Lisp | 📅 2026-11-08 - The Superior Lisp Interaction Mode for Emacs.
+* [Sly](https://github.com/joaotavora/sly) ⭐ 1,445 | 🐛 191 | 🌐 Common Lisp | 📅 2026-10-28 - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 Third-party:
 
@@ -218,7 +218,7 @@ For inspiration:
 
 See also:
 
-* cl-tuition library's [file manager example](https://github.com/atgreen/cl-tuition/tree/master?tab=readme-ov-file#gallery) ⭐ 153 | 🐛 4 | 🌐 Common Lisp | 📅 2026-09-13.
+* cl-tuition library's [file manager example](https://github.com/atgreen/cl-tuition/tree/master?tab=readme-ov-file#gallery) ⭐ 153 | 🐛 3 | 🌐 Common Lisp | 📅 2026-11-12.
 * [Lem's directory-mode](https://lem-project.github.io/modes/directory/).
 
 ![The Lem editor's directory mode](https://github-production-user-asset-6210df.s3.amazonaws.com/13656378/239887331-8c790229-1f7c-4581-b093-9c56d4d85420.png "Lem's directory mode")
@@ -228,7 +228,7 @@ See also:
 * [Kandria](https://github.com/Shirakumo/kandria) ⚠️ Archived - a post-apocalyptic exploratory 2D platformer game and hack and slack action RPG. \[zlib License]
   * Uses the [Trial](https://github.com/shirakumo/trial) ⚠️ Archived game engine.
   * entirely made in Common Lisp. Published on Steam.
-* [sucle](https://github.com/terminal625/sucle) ⭐ 308 | 🐛 11 | 🌐 Common Lisp | 📅 2022-07-31 - A Minecraft clone (voxel game engine). [MIT].
+* [sucle](https://github.com/terminal625/sucle) ⭐ 307 | 🐛 11 | 🌐 Common Lisp | 📅 2022-07-31 - A Minecraft clone (voxel game engine). [MIT].
 * [Capture the Flag engine](https://github.com/atgreen/ctfg) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-04 - challenges with a live scoreboard.
   * alternative to the open source python-based game engine (CTFd): "It's mostly OK, but we had serious performance problems (UI locking up) when we approached any kind of interesting scale."
   * "a style of game that's popular in cybersecurity circles, where you are presented with a series of challenges that, when solved, provides text "flags". The flags gives you points. It's a competition, which is why ctfg has a live scoreboard. I would run this as a live, in-person event, and have the live scoreboard up on the big screen to make it exciting. I don't run it as a cybersecurity event. It's more of a fun kubernetes training experience."
@@ -322,7 +322,7 @@ Terminal applications:
 
 #### Browser
 
-* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,061 | 🐛 141 | 🌐 Common Lisp | 📅 2026-11-11 - The fastest productivity web-browser.
+* [Nyxt](https://github.com/atlas-engineer/nyxt/) ⭐ 11,063 | 🐛 141 | 🌐 Common Lisp | 📅 2026-11-13 - The fastest productivity web-browser.
 
 Deprecated:
 
@@ -348,7 +348,7 @@ Deprecated:
 
 ### Productivity
 
-* [Ichiran](https://github.com/tshatrov/ichiran) ⭐ 413 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-17 - Linguistic tools for texts in Japanese language. [MIT].
+* [Ichiran](https://github.com/tshatrov/ichiran) ⭐ 414 | 🐛 13 | 🌐 Common Lisp | 📅 2026-10-17 - Linguistic tools for texts in Japanese language. [MIT].
 * [Projectured](https://github.com/projectured/projectured) ⚠️ Archived -  ProjecturEd is a generic purpose projectional editor. \[No License Specified].
 * [Deftask](https://github.com/deftask/deftask-cli) ⭐ 19 | 🐛 1 | 🌐 Common Lisp | 📅 2019-01-30 - Painless task management for teams. \[Partly Open Source].
 * [Grammarly](https://www.grammarly.com/) - Grammar checking. [Proprietary].
@@ -499,4 +499,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
