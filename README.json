@@ -17,7 +17,7 @@
                 "id": 148596909,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-12T07:07:41Z",
+                "last_commit": "2026-11-13T12:48:07Z",
                 "open_issues": 7,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
@@ -460,7 +460,7 @@
                 "id": 106623865,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-12T13:26:11Z",
+                "last_commit": "2026-11-13T11:29:06Z",
                 "open_issues": 2,
                 "owner": "phantomics",
                 "repo": "seed",
@@ -570,11 +570,11 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-11-11T02:47:02Z",
-                    "open_issues": 91,
+                    "last_commit": "2026-11-13T18:49:48Z",
+                    "open_issues": 102,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3075,
+                    "stars": 3076,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -912,7 +912,7 @@
                 "open_issues": 13,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3917,
+                "stars": 3919,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -929,8 +929,8 @@
                 "id": 1073370914,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-11-12T11:07:30Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-13T17:08:45Z",
+                "open_issues": 1,
                 "owner": "atgreen",
                 "repo": "cl-tuition",
                 "stars": 153,
@@ -1314,7 +1314,7 @@
                     "open_issues": 39,
                     "owner": "vydd",
                     "repo": "sketch",
-                    "stars": 1504,
+                    "stars": 1505,
                     "topics": [
                       "2d",
                       "art",
@@ -1570,11 +1570,11 @@
                     "id": 87668160,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-11-13T01:40:21Z",
-                    "open_issues": 141,
+                    "last_commit": "2026-11-13T19:38:44Z",
+                    "open_issues": 136,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11063,
+                    "stars": 11066,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1735,7 +1735,7 @@
                 "open_issues": 13,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3917,
+                "stars": 3919,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1781,10 +1781,10 @@
                 "language": "Common Lisp",
                 "license": "MIT",
                 "last_commit": "2026-10-17T20:57:18Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "tshatrov",
                 "repo": "ichiran",
-                "stars": 414,
+                "stars": 413,
                 "topics": [
                   "common-lisp",
                   "dictionary",
@@ -2070,7 +2070,7 @@
                 "open_issues": 13,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3917,
+                "stars": 3919,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2228,7 +2228,7 @@
             "open_issues": 46,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2994,
+            "stars": 2995,
             "topics": [
               "awesome",
               "common-lisp",
@@ -2285,7 +2285,7 @@
                 "open_issues": 2,
                 "owner": "lispgames",
                 "repo": "lispgames.github.io",
-                "stars": 257,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2302,7 +2302,7 @@
             "open_issues": 2,
             "owner": "lispgames",
             "repo": "lispgames.github.io",
-            "stars": 257,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:30:40.554Z",
+    "last_updated": "2026-11-14T03:26:40.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
