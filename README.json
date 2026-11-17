@@ -17,7 +17,7 @@
                 "id": 148596909,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-14T18:02:05Z",
+                "last_commit": "2026-11-16T16:00:11Z",
                 "open_issues": 7,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
@@ -47,7 +47,7 @@
                 "open_issues": 31,
                 "owner": "cac-t-u-s",
                 "repo": "om-sharp",
-                "stars": 175,
+                "stars": 176,
                 "topics": [
                   "computer-assisted-composition",
                   "lisp",
@@ -460,7 +460,7 @@
                 "id": 106623865,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T11:29:06Z",
+                "last_commit": "2026-11-16T12:10:52Z",
                 "open_issues": 2,
                 "owner": "phantomics",
                 "repo": "seed",
@@ -570,11 +570,11 @@
                     "id": 40242557,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-11-15T14:24:49Z",
-                    "open_issues": 100,
+                    "last_commit": "2026-11-17T01:59:35Z",
+                    "open_issues": 90,
                     "owner": "lem-project",
                     "repo": "lem",
-                    "stars": 3077,
+                    "stars": 3078,
                     "topics": [
                       "common-lisp",
                       "editor",
@@ -683,7 +683,7 @@
                     "open_issues": 290,
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2097,
+                    "stars": 2098,
                     "topics": [
                       "common-lisp",
                       "emacs"
@@ -1314,7 +1314,7 @@
                     "open_issues": 39,
                     "owner": "vydd",
                     "repo": "sketch",
-                    "stars": 1505,
+                    "stars": 1506,
                     "topics": [
                       "2d",
                       "art",
@@ -1570,11 +1570,11 @@
                     "id": 87668160,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-11-16T00:04:20Z",
-                    "open_issues": 138,
+                    "last_commit": "2026-11-17T04:37:04Z",
+                    "open_issues": 127,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11067,
+                    "stars": 11070,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2225,10 +2225,10 @@
             "language": "Makefile",
             "license": "NOASSERTION",
             "last_commit": "2026-11-04T21:50:33Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2994,
+            "stars": 2995,
             "topics": [
               "awesome",
               "common-lisp",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:56:26.359Z",
+    "last_updated": "2026-11-17T05:10:38.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
