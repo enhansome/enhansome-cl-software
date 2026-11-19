@@ -17,7 +17,7 @@
                 "id": 148596909,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T16:00:11Z",
+                "last_commit": "2026-11-18T08:49:07Z",
                 "open_issues": 7,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
@@ -213,7 +213,7 @@
                 "open_issues": 83,
                 "owner": "viebel",
                 "repo": "klipse",
-                "stars": 3132,
+                "stars": 3133,
                 "topics": [
                   "brainfuck",
                   "clojure",
@@ -511,7 +511,7 @@
                     "open_issues": 39,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6561,
+                    "stars": 6563,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -560,31 +560,6 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Lem",
-                  "description": "Common Lisp editor/IDE with high expansibility. MIT.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "General-purpose editor/IDE with high expansibility in Common Lisp",
-                    "homepage": "http://lem-project.github.io/",
-                    "id": 40242557,
-                    "language": "Common Lisp",
-                    "license": "MIT",
-                    "last_commit": "2026-11-18T03:45:38Z",
-                    "open_issues": 93,
-                    "owner": "lem-project",
-                    "repo": "lem",
-                    "stars": 3080,
-                    "topics": [
-                      "common-lisp",
-                      "editor",
-                      "text-editor"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T07:00:34.837Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Neomacs",
                   "description": "Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.",
                   "children": [],
@@ -599,10 +574,31 @@
                     "open_issues": 14,
                     "owner": "neomacs-project",
                     "repo": "neomacs",
-                    "stars": 286,
+                    "stars": 287,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Lem",
+                  "description": "Common Lisp editor/IDE with high expansibility. MIT.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "General-purpose editor/IDE with high expansibility in Common Lisp",
+                    "homepage": "http://lem-project.github.io/",
+                    "id": 1462540838,
+                    "language": null,
+                    "license": "MIT",
+                    "last_commit": "2026-11-18T10:40:45Z",
+                    "open_issues": 0,
+                    "owner": "cxxxr",
+                    "repo": "lem",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-19T04:23:10.004Z"
                 },
                 {
                   "node_type": "item",
@@ -707,7 +703,7 @@
                     "open_issues": 191,
                     "owner": "joaotavora",
                     "repo": "sly",
-                    "stars": 1446,
+                    "stars": 1448,
                     "topics": [
                       "common-lisp",
                       "emacs",
@@ -966,7 +962,7 @@
                     "open_issues": 5,
                     "owner": "Shirakumo",
                     "repo": "trial",
-                    "stars": 1138,
+                    "stars": 1139,
                     "topics": [
                       "common-lisp",
                       "game-development",
@@ -1344,7 +1340,7 @@
                     "open_issues": 33,
                     "owner": "kaveh808",
                     "repo": "kons-9",
-                    "stars": 659,
+                    "stars": 660,
                     "topics": [
                       "3d-animation",
                       "3d-graphics",
@@ -1570,11 +1566,11 @@
                     "id": 87668160,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-11-18T02:38:40Z",
+                    "last_commit": "2026-11-19T02:12:55Z",
                     "open_issues": 127,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11071,
+                    "stars": 11070,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -2225,10 +2221,10 @@
             "language": "Makefile",
             "license": "NOASSERTION",
             "last_commit": "2026-11-04T21:50:33Z",
-            "open_issues": 47,
+            "open_issues": 50,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2996,
+            "stars": 2997,
             "topics": [
               "awesome",
               "common-lisp",
@@ -2312,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T04:38:36.863Z",
+    "last_updated": "2026-11-19T04:23:10.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
@@ -2324,7 +2320,7 @@
       "open_issues": 2,
       "owner": "azzamsa",
       "repo": "awesome-cl-software",
-      "stars": 400,
+      "stars": 401,
       "topics": [
         "awesome-list",
         "common-lisp"
