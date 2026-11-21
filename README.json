@@ -460,7 +460,7 @@
                 "id": 106623865,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T12:57:36Z",
+                "last_commit": "2026-11-20T10:53:53Z",
                 "open_issues": 2,
                 "owner": "phantomics",
                 "repo": "seed",
@@ -591,8 +591,8 @@
                     "id": 1462540838,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-11-20T00:18:56Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-11-21T00:15:01Z",
+                    "open_issues": 1,
                     "owner": "cxxxr",
                     "repo": "lem",
                     "stars": 0,
@@ -637,7 +637,7 @@
                     "open_issues": 8,
                     "owner": "bluelisp",
                     "repo": "hemlock",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:00:34.837Z"
@@ -703,7 +703,7 @@
                     "open_issues": 191,
                     "owner": "joaotavora",
                     "repo": "sly",
-                    "stars": 1448,
+                    "stars": 1447,
                     "topics": [
                       "common-lisp",
                       "emacs",
@@ -820,7 +820,7 @@
                     "language": null,
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-11-05T19:05:56Z",
-                    "open_issues": 46,
+                    "open_issues": 47,
                     "owner": "fricas",
                     "repo": "fricas",
                     "stars": 400,
@@ -908,7 +908,7 @@
                 "open_issues": 13,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3917,
+                "stars": 3918,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -929,7 +929,7 @@
                 "open_issues": 1,
                 "owner": "atgreen",
                 "repo": "cl-tuition",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1082,7 +1082,7 @@
                 "open_issues": 0,
                 "owner": "gwathlobal",
                 "repo": "CotD",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "common-lisp",
                   "game",
@@ -1566,11 +1566,11 @@
                     "id": 87668160,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-11-20T03:15:35Z",
-                    "open_issues": 119,
+                    "last_commit": "2026-11-20T18:35:09Z",
+                    "open_issues": 110,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11070,
+                    "stars": 11071,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1731,7 +1731,7 @@
                 "open_issues": 13,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3917,
+                "stars": 3918,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2066,7 +2066,7 @@
                 "open_issues": 13,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3917,
+                "stars": 3918,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T04:09:16.316Z",
+    "last_updated": "2026-11-21T04:09:33.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
