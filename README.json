@@ -17,7 +17,7 @@
                 "id": 148596909,
                 "language": "Common Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-22T18:34:37Z",
+                "last_commit": "2026-11-25T06:27:20Z",
                 "open_issues": 7,
                 "owner": "openmusic-project",
                 "repo": "openmusic",
@@ -285,8 +285,8 @@
                 "id": 84357579,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-09-05T15:51:27Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-26T05:05:04Z",
+                "open_issues": 3,
                 "owner": "ryukinix",
                 "repo": "lisp-chat",
                 "stars": 206,
@@ -511,7 +511,7 @@
                     "open_issues": 37,
                     "owner": "dimitri",
                     "repo": "pgloader",
-                    "stars": 6562,
+                    "stars": 6563,
                     "topics": [
                       "clozure-cl",
                       "common-lisp",
@@ -703,7 +703,7 @@
                     "open_issues": 191,
                     "owner": "joaotavora",
                     "repo": "sly",
-                    "stars": 1448,
+                    "stars": 1449,
                     "topics": [
                       "common-lisp",
                       "emacs",
@@ -908,7 +908,7 @@
                 "open_issues": 13,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3919,
+                "stars": 3920,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -1566,11 +1566,11 @@
                     "id": 87668160,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-11-25T05:32:41Z",
+                    "last_commit": "2026-11-25T20:56:15Z",
                     "open_issues": 100,
                     "owner": "atlas-engineer",
                     "repo": "nyxt",
-                    "stars": 11075,
+                    "stars": 11076,
                     "topics": [
                       "browser",
                       "common-lisp",
@@ -1627,8 +1627,8 @@
                     "id": 84357579,
                     "language": "Common Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-09-05T15:51:27Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-11-26T05:05:04Z",
+                    "open_issues": 3,
                     "owner": "ryukinix",
                     "repo": "lisp-chat",
                     "stars": 206,
@@ -1731,7 +1731,7 @@
                 "open_issues": 13,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3919,
+                "stars": 3920,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2066,7 +2066,7 @@
                 "open_issues": 13,
                 "owner": "froggey",
                 "repo": "Mezzano",
-                "stars": 3919,
+                "stars": 3920,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2122,7 +2122,7 @@
                 "open_issues": 86,
                 "owner": "stumpwm",
                 "repo": "stumpwm",
-                "stars": 2030,
+                "stars": 2032,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2143,7 +2143,7 @@
                 "open_issues": 0,
                 "owner": "stumpwm",
                 "repo": "paulownia",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:00:34.837Z"
@@ -2252,7 +2252,7 @@
             "open_issues": 6,
             "owner": "azzamsa",
             "repo": "awesome-lisp-companies",
-            "stars": 656,
+            "stars": 655,
             "topics": [
               "awesome-list",
               "lisp"
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T05:35:04.457Z",
+    "last_updated": "2026-11-26T05:18:24.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome application software built with Common Lisp",
